@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: "If you use these data, please cite them as below."
+type: dataset
+title: "AI Disinformation Benchmark: data"
+authors:
+  - name: Dosimeter
+    website: "https://dosimeteraudit.org"
+url: "https://dosimeteraudit.org/benchmark"
+license:
+  - CC-BY-4.0
+  - MIT
+  - EUPL-1.2
+keywords:
+  - AI assistants
+  - AI chatbots
+  - disinformation
+  - foreign information manipulation and interference
+  - LLM grooming
+  - open data

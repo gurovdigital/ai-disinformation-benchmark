@@ -1,0 +1,7 @@
+number,dataset,questions,responses,counted,first_day,last_day,assistants,folder
+1,"Sweden, September 2026",13,434,0,2026-08-05,2026-09-01,5,datasets/01-sweden-2026-09
+2,"Germany, September 2026",10,692,27,2026-09-20,2026-10-09,7,datasets/02-germany-2026-09
+3,"World questions, October 2026",20,395,41,2026-10-11,2026-10-13,12,datasets/03-world-questions-2026-10
+4,"Questions from published reports, October 2026",60,657,94,2026-10-12,2026-10-13,12,datasets/04-questions-from-reports-2026-10
+5,"Claims of the day, 12 October 2026",10,301,66,2026-10-12,2026-10-13,12,datasets/05-claims-of-the-day-2026-10-12
+6,"Claims of the day, 13 October 2026",10,31,6,2026-10-12,2026-10-13,3,datasets/06-claims-of-the-day-2026-10-13
