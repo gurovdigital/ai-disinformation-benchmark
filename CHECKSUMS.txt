@@ -18,4 +18,4 @@ cb043d46995dea3bf9035b95088ca81e84c27941e932dd26d17e96e225349688  datasets/05-cl
 ad2323cfc8f5aea3644698cbc7ba7de2a428bdb12a69d86eb6eab84819c536be  datasets/06-claims-of-the-day-2026-10-13/responses.csv
 335348ec082221a6c27bb3617c5ead5aee29e3b0725b75ac7cf7b0f23efa2f81  datasets/06-claims-of-the-day-2026-10-13/responses.jsonl
 67da792169f55a8c6a0b50a86ffff38becbb80892c496c3d2139695e5375107b  datasets.csv
-b6813b3a72bd49b91869f3e1eeb635c8bf0a1b502ae2a0f6ff915c1ddf5a45af  source-lists/counted-sites.csv
+4e42ee0af79f1c410da73be8ef27c5c69957d79c0b1d9bcd75583e296ace8367  source-lists/counted-sites.csv
