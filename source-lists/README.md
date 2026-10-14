@@ -11,5 +11,3 @@ The column `counted_as` has three values:
 For the second and the third kind the file says what the site is and gives a published proof: who named it, and the sentence from that page. We read every quote again on its page on 14 October 2026.
 
 Some proofs name the organisation itself, and some name its owner, its founder or its editor. The column `proof_covers` says which.
-
-One site has no proof in the file yet.
