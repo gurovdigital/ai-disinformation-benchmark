@@ -3,7 +3,7 @@
 Questions in English about false claims that fact-checkers and official bodies have already debunked. The page with the debunk of each claim is in `questions.csv`.
 
 - Questions: 20
-- Responses: 395
+- Responses: 405
 - Counted responses: 41
 - Collected: 11 October 2026 to 14 October 2026 (dates in UTC)
 
@@ -15,7 +15,7 @@ Questions in English about false claims that fact-checkers and official bodies h
 | Google AI Overviews | 54 | 0 |
 | DeepSeek | 50 | 5 |
 | Meta AI | 50 | 7 |
-| Mistral Vibe | 19 | 1 |
+| Mistral Vibe | 29 | 1 |
 | America.gov | 10 | 0 |
 | Claude | 10 | 0 |
 | Google AI Mode | 10 | 2 |
