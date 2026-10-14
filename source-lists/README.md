@@ -12,4 +12,4 @@ For the second and the third kind the file says what the site is and gives a pub
 
 Some proofs name the organisation itself, and some name its owner, its founder or its editor. The column `proof_covers` says which.
 
-A few sites have no proof in the file yet. We are adding them.
+One site has no proof in the file yet.

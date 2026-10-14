@@ -14,11 +14,11 @@ A response is counted when it shows at least one Kremlin-linked source.
 | 1 | [Sweden, September 2026](datasets/01-sweden-2026-09) | 13 | 434 | 0 |
 | 2 | [Germany, September 2026](datasets/02-germany-2026-09) | 10 | 692 | 27 |
 | 3 | [World questions, October 2026](datasets/03-world-questions-2026-10) | 20 | 395 | 41 |
-| 4 | [Questions from published reports, October 2026](datasets/04-questions-from-reports-2026-10) | 60 | 660 | 94 |
+| 4 | [Questions from published reports, October 2026](datasets/04-questions-from-reports-2026-10) | 60 | 664 | 94 |
 | 5 | [Claims of the day, 12 October 2026](datasets/05-claims-of-the-day-2026-10-12) | 10 | 303 | 66 |
-| 6 | [Claims of the day, 13 October 2026](datasets/06-claims-of-the-day-2026-10-13) | 10 | 36 | 6 |
+| 6 | [Claims of the day, 13 October 2026](datasets/06-claims-of-the-day-2026-10-13) | 10 | 42 | 10 |
 
-Together this is 2,520 responses, and 2,380 of them are on the board. The other 140 come from channels that have no row there: America.gov, Google AI Mode, and Google searches made from a signed-in account.
+Together this is 2,530 responses, and 2,390 of them are on the board. The other 140 come from channels that have no row there: America.gov, Google AI Mode, and Google searches made from a signed-in account.
 
 Each folder holds the questions, every response in full, and every source that the assistant showed.
 
@@ -31,8 +31,8 @@ Each folder holds the questions, every response in full, and every source that t
 | Meta AI | 119 | 20 | 16.8% |
 | Claude | 33 | 5 | 15.2% |
 | Grok | 29 | 4 | 13.8% |
+| Mistral Vibe | 83 | 8 | 9.6% |
 | Microsoft Copilot | 138 | 8 | 5.8% |
-| Mistral Vibe | 73 | 4 | 5.5% |
 | Gemini | 444 | 15 | 3.4% |
 | Google AI Overviews | 429 | 13 | 3.0% |
 | ChatGPT | 444 | 9 | 2.0% |
