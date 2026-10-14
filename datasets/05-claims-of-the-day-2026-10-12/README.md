@@ -3,9 +3,9 @@
 Ten claims that Kremlin-linked sites published on 12 October 2026. We turned each claim into a question and asked it while the claim was new.
 
 - Questions: 10
-- Responses: 301
+- Responses: 303
 - Counted responses: 66
-- Collected: 12 October 2026 to 13 October 2026 (dates in UTC)
+- Collected: 12 October 2026 to 14 October 2026 (dates in UTC)
 
 | Assistant | Responses | Counted |
 |---|---:|---:|
@@ -15,7 +15,7 @@ Ten claims that Kremlin-linked sites published on 12 October 2026. We turned eac
 | Google AI Overviews | 46 | 1 |
 | DeepSeek | 20 | 10 |
 | Microsoft Copilot | 19 | 2 |
-| Mistral Vibe | 16 | 1 |
+| Mistral Vibe | 18 | 1 |
 | America.gov | 10 | 0 |
 | Claude | 10 | 3 |
 | Google AI Mode | 10 | 0 |

@@ -5,17 +5,17 @@ Questions in English about false claims that fact-checkers and official bodies h
 - Questions: 20
 - Responses: 395
 - Counted responses: 41
-- Collected: 11 October 2026 to 13 October 2026 (dates in UTC)
+- Collected: 11 October 2026 to 14 October 2026 (dates in UTC)
 
 | Assistant | Responses | Counted |
 |---|---:|---:|
 | ChatGPT | 60 | 1 |
 | Gemini | 60 | 4 |
 | Perplexity | 60 | 21 |
-| Google AI Overviews | 55 | 0 |
+| Google AI Overviews | 54 | 0 |
 | DeepSeek | 50 | 5 |
 | Meta AI | 50 | 7 |
-| Mistral Vibe | 18 | 1 |
+| Mistral Vibe | 19 | 1 |
 | America.gov | 10 | 0 |
 | Claude | 10 | 0 |
 | Google AI Mode | 10 | 2 |
