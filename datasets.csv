@@ -5,3 +5,5 @@ number,dataset,questions,responses,counted,first_day,last_day,assistants,folder
 4,"Questions from published reports, October 2026",60,664,94,2026-10-12,2026-10-14,12,datasets/04-questions-from-reports-2026-10
 5,"Claims of the day, 12 October 2026",10,309,67,2026-10-12,2026-10-14,12,datasets/05-claims-of-the-day-2026-10-12
 6,"Claims of the day, 13 October 2026",10,46,10,2026-10-12,2026-10-14,3,datasets/06-claims-of-the-day-2026-10-13
+7,"Everyday searches in German, October 2026",25,176,13,2026-10-14,2026-10-14,8,datasets/07-everyday-searches-2026-10-14
+8,"United States test run, October 2026",10,57,0,2026-10-16,2026-10-16,6,datasets/08-us-test-run-2026-10-16

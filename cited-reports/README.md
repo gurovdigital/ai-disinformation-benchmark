@@ -1,6 +1,6 @@
 # Figures from the reports of other organisations
 
-The board on https://dosimeteraudit.org/benchmark also uses 9 published reports of other organisations. We do not have their data and we do not publish it here.
+The board on https://dosimeteraudit.org/benchmark also uses 6 published reports of 4 organisations, with 683 responses in all. We do not have their data and we do not publish it here.
 
 `figures.csv` holds only the figures that we took from each report, exactly as the report prints them, with a link to the report. Each organisation counted in its own way, and the column `what_the_report_counted` says how.
 

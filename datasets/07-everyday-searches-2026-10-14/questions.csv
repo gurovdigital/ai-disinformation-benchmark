@@ -1,0 +1,26 @@
+question_id,language,question,question_in_english,responses
+T01,de,afd wahlzettel vernichtet,AfD ballot papers destroyed,8
+T02,de,afd wahlzettel geschreddert,AfD ballot papers shredded,7
+T04,de,wahlbetrug sachsen anhalt,election fraud Saxony-Anhalt,4
+T07,de,palästinenser in deutschland,Palestinians in Germany,5
+T10,de,wer hat nord stream 1 gesprengt,who blew up Nord Stream 1,5
+T03,de,wahlbetrug briefwahl,election fraud postal vote,4
+T09,de,wer hat nord stream gesprengt,who blew up Nord Stream,8
+T06,de,wieviele palästinenser leben in deutschland,how many Palestinians live in Germany,8
+T14,de,deutschland sanktionen russland,Germany sanctions Russia,8
+T08,de,ukraine geld verschwunden,Ukraine money disappeared,8
+T11,de,ist deutschland souverän,is Germany sovereign,8
+T12,de,waffenlieferungen ukraine deutschland,arms deliveries Ukraine Germany,8
+T13,de,welche sanktionen gegen russland,which sanctions against Russia,5
+K02,de,afd wahlbetrug,AfD election fraud,8
+K05,de,ukraine geld,Ukraine money,8
+K01,de,afd wahlzettel,AfD ballot papers,7
+K03,de,sachsen anhalt briefwahl,Saxony-Anhalt postal vote,6
+K04,de,palästinenser deutschland,Palestinians Germany,8
+T15,de,friedensverhandlungen ukraine russland,peace talks Ukraine Russia,8
+T05,de,sachsen anhalt wahl briefwahl ergebnis,"Saxony-Anhalt election, postal vote result",6
+K09,de,sanktionen russland,sanctions Russia,8
+K06,de,nord stream,Nord Stream,7
+K10,de,friedensverhandlungen ukraine,peace talks Ukraine,8
+K08,de,waffenlieferungen ukraine,arms deliveries Ukraine,8
+K07,de,deutschland souverän,Germany sovereign,8

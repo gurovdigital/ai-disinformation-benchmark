@@ -33,6 +33,9 @@ for d in csv.DictReader(open(ROOT / "datasets.csv", encoding="utf-8")):
             x[1] += r["counted"]
 
 print()
+total = sum(int(d["responses"]) for d in csv.DictReader(open(ROOT / "datasets.csv", encoding="utf-8")))
+print(f"All datasets together: {total:,} responses, {sum(n for n, _ in board.values()):,} of them on the board")
+print()
 print("Our own measurements on the board, by assistant:")
 for name, (n, c) in sorted(board.items(), key=lambda kv: -kv[1][1] / kv[1][0]):
     print(f"  {name:22} {c:4} of {n:4}  {100 * c / n:5.1f}%")

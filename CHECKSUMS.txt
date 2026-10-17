@@ -1,4 +1,4 @@
-d3f4cea274d7a5ad8ff1fcc800d1e5b3ffd9b0187cbe0688480eac8a9165fad5  cited-reports/figures.csv
+771e9d8da77b888a440ff784c4d5771a14490c136da9ca4d8d730b5dcd96b0c1  cited-reports/figures.csv
 5a1efd737fe3c9e597e8b1b0ab86372cbc2e35e098e93ef93b9e0caa764f2ff8  datasets/01-sweden-2026-09/questions.csv
 536e5d24c5d5b278cf2f5e15e32ff9ec24e007784b249ea61a871ef437323397  datasets/01-sweden-2026-09/responses.csv
 fefe3032ff2f07e8fc3818806b85015a7ca0481c48f52f0d0f07bc3f3e8fc489  datasets/01-sweden-2026-09/responses.jsonl
@@ -17,5 +17,11 @@ bcefe2d44428a77af9ecb91e5e37fb3d8c366acc701411d85407e9e1b7b606da  datasets/04-qu
 af5591f84abe65b007e6c65020279d076ed79da85d433252c355fdf124835837  datasets/06-claims-of-the-day-2026-10-13/questions.csv
 17fdf1f5e784d5756952b86cb3a3070d28d14296f5a31e0dd620143f90bd3746  datasets/06-claims-of-the-day-2026-10-13/responses.csv
 51901f7184ab40e4fc44ddb065e1bb999de4437555691c6027f244dbddf9d04c  datasets/06-claims-of-the-day-2026-10-13/responses.jsonl
-7bb184a140cfb7c6392e4341caf2e4bbd56e2db50e48f771aef0707761a9c107  datasets.csv
-87bc1df0e29711dfb2347aa24e2b0ec80d851113813630126fd3ab148069a81d  source-lists/counted-sites.csv
+15e960a862441f7aa44b804065dd90c09355f2acf8b89024fa2348413bf22afb  datasets/07-everyday-searches-2026-10-14/questions.csv
+da1b3bdb7833cf50070caa28fd1791b9015a3eb25d39fa78c71d602245a6cafe  datasets/07-everyday-searches-2026-10-14/responses.csv
+8fe1c7878fd4b641fb26f2c089f91933a94ab9e27b63b5fd5e088411aa1f5259  datasets/07-everyday-searches-2026-10-14/responses.jsonl
+4ca62ec597ece6b0a5d69f5b29d9f5731d6fd227933692f83e458889bb3340e6  datasets/08-us-test-run-2026-10-16/questions.csv
+5d359b3870f385e9e8755d4119edfba96c357be61f840308e528a6a15e0ccef9  datasets/08-us-test-run-2026-10-16/responses.csv
+2fb49b6d6f8551f5a8efdf288e363b28a8e483b5485d394a8fe639aa276f19d8  datasets/08-us-test-run-2026-10-16/responses.jsonl
+8def3128d65e8288df876ceb13de9995d60de82dbca4f08d2f60defd3e2f57e3  datasets.csv
+58c449dbb0bf584da162d39e949622b936ce1bca4eb3c5b14aecf750a78f75c0  source-lists/counted-sites.csv

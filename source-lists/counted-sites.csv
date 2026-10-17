@@ -1,8 +1,8 @@
 site,counted_as,responses_that_show_it,name,what_it_is,proof,quote_from_the_proof,proof_covers
-tass.com,Kremlin state body or state media,31,TASS,state-controlled media,"State Media Monitor (Media and Journalism Research Center), https://statemediamonitor.com/2026/09/tass/",TASS remains classified State-Controlled Media (SC). It is wholly state-owned and government-governed.,the organisation itself
+tass.com,Kremlin state body or state media,35,TASS,state-controlled media,"State Media Monitor (Media and Journalism Research Center), https://statemediamonitor.com/2026/09/tass/",TASS remains classified State-Controlled Media (SC). It is wholly state-owned and government-governed.,the organisation itself
+mid.ru,Kremlin state body or state media,11,Ministry of Foreign Affairs of Russia,state body,"EU Regulation 269/2014, Annex I (consolidated 28.09.2026), https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0269-20260928, entry 229",As a central figure of the government propaganda,"the head of its press department, Maria Zakharova"
 tass.ru,Kremlin state body or state media,11,TASS,state-controlled media,"State Media Monitor (Media and Journalism Research Center), https://statemediamonitor.com/2026/09/tass/",TASS remains classified State-Controlled Media (SC). It is wholly state-owned and government-governed.,the organisation itself
 interaffairs.ru,Kremlin state body or state media,10,International Affairs,journal of the Ministry of Foreign Affairs,"the journal's own English About page, https://en.interaffairs.ru/about/","International Affairs is a journal of Russia's Foreign Ministry covering a broad range of subjects in international politics, diplomacy, and global security.",the organisation itself
-mid.ru,Kremlin state body or state media,10,Ministry of Foreign Affairs of Russia,state body,"EU Regulation 269/2014, Annex I (consolidated 28.09.2026), https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0269-20260928, entry 229",As a central figure of the government propaganda,"the head of its press department, Maria Zakharova"
 kp.ru,Kremlin state body or state media,8,Komsomolskaya Pravda,"pro-Kremlin outlet, sanctioned by name in Canada","Canada, Special Economic Measures (Russia) Regulations SOR/2014-58, Schedule 1, Entities, https://laws-lois.justice.gc.ca/eng/regulations/SOR-2014-58/FullText.html, item 468",Komsomolskaya Pravda,the organisation itself
 council.gov.ru,Kremlin state body or state media,7,Federation Council,state body: the upper chamber of the parliament,"Federation Council, its own English page, https://web.archive.org/web/20260813020850/http://council.gov.ru/en/structure/council/","The Federation Council is the upper chamber of the Federal Assembly, the Russian parliament.",the organisation itself
 regnum.ru,Kremlin state body or state media,6,Regnum,"pro-Kremlin outlet, owner and founder sanctioned","EU Regulation 269/2014, Annex I (consolidated 28.09.2026), https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0269-20260928, entry 685 (Modest Kolerov)","co-founder of the REGNUM portal, which he has used to spread aggressive and biased propagandist narratives against Ukraine",the portal and its co-founder Modest Kolerov
@@ -20,7 +20,7 @@ prlib.ru,Kremlin state body or state media,1,Presidential Library,state library,
 rtde.life,Kremlin state body or state media,1,"RT DE, mirror address","mirror address of RT DE, the German service of Russia Today, which is banned in the European Union","Correctiv, 17 November 2022, ""With a few simple steps: how RT DE circumvents the EU sanctions"", https://correctiv.org/en/fact-checking-en/2022/11/17/with-a-few-simple-steps-how-rt-de-circumvents-the-eu-sanctions/","sub-domains whose addresses have the same extension but different beginnings (for example, meinungsfreiheit.rtde.life)",the organisation itself
 russiaun.ru,Kremlin state body or state media,1,Permanent Mission of Russia to the United Nations,state body,"the site itself, https://russiaun.ru/en",Permanent Mission of the Russian Federation to the United Nations,the organisation itself
 voennoedelo.com,pro-Kremlin outlet or mirror site,28,Voennoe Delo,pro-Kremlin outlet,"Meduza, 20 Oct 2025, https://meduza.io/en/feature/2025/10/20/bad-for-moscow",In the Kremlin-backed outlet Voennoe Delo,the organisation itself
-life.ru,pro-Kremlin outlet or mirror site,18,"Life (Life.ru, formerly LifeNews)",pro-Kremlin outlet; its founder and editorial director is sanctioned as a propagandist,"Council of the European Union, document 8287/24 of 14 June 2024, Council Implementing Regulation implementing Regulation (EU) No 269/2014 (adopted 24 June 2024 as Implementing Regulation (EU) 2024/1746), Annex, entry 1755 (Aram Gabrelyanov), https://data.consilium.europa.eu/doc/document/ST-8287-2024-INIT/en/pdf","He is the founder and editorial director of Life news portal, which has become one of the symbols of unscrupulous propaganda.",the portal and its founder Aram Gabrelyanov
+life.ru,pro-Kremlin outlet or mirror site,19,"Life (Life.ru, formerly LifeNews)",pro-Kremlin outlet; its founder and editorial director is sanctioned as a propagandist,"Council of the European Union, document 8287/24 of 14 June 2024, Council Implementing Regulation implementing Regulation (EU) No 269/2014 (adopted 24 June 2024 as Implementing Regulation (EU) 2024/1746), Annex, entry 1755 (Aram Gabrelyanov), https://data.consilium.europa.eu/doc/document/ST-8287-2024-INIT/en/pdf","He is the founder and editorial director of Life news portal, which has become one of the symbols of unscrupulous propaganda.",the portal and its founder Aram Gabrelyanov
 topwar.ru,pro-Kremlin outlet or mirror site,16,Military Review (topwar),pro-Kremlin outlet,"Jamestown Foundation, Eurasia Daily Monitor, Kassie Corelli, 19 Nov 2025, https://jamestown.org/pro-kremlin-analysts-acknowledge-previously-hushed-up-problems/",which is close to the Russian Ministry of Defense,the organisation itself
 mk.ru,pro-Kremlin outlet or mirror site,8,Moskovsky Komsomolets,pro-Kremlin newspaper; its editor and owner is under the sanctions of the European Union and the United Kingdom,"United Kingdom, annex to the notice ""Financial Sanctions: Russia"" of 23 August 2022, entry RUS1386 (Pavel Gusev, editor and owner), copy published by the Government of Jersey, https://www.gov.je/SiteCollectionDocuments/Industry%20and%20finance/ID%20Russia%20Annex%2023%2008%202022%20SK.pdf","This newspaper has consistently supported and promoted the positions of the Russian Government on Ukraine, including engaging in active denial of the killing of civilians, most notably the massacre in Bucha.",the newspaper and its editor Pavel Gusev
 baltnews.com,pro-Kremlin outlet or mirror site,7,Baltnews,news outlet run by the state,"Meduza, https://meduza.io/en/news/2018/08/29/following-an-investigative-report-by-buzzfeed-and-others-a-network-of-pro-kremlin-news-outlets-in-the-baltic-states-finally-admits-to-being-run-by-the-russian-state",the news outlet BaltNews finally admitted to being owned and operated by the Russian state through the Rossiya Segodnya media agency.,the organisation itself
@@ -36,29 +36,31 @@ rossaprimavera.ru,pro-Kremlin outlet or mirror site,2,Essence of Time / Rossa Pr
 gazeta.ru,pro-Kremlin outlet or mirror site,1,Gazeta.ru,pro-government news outlet,"Meduza, 20 February 2026, report on the coverage that the presidential administration asked for before the parliamentary elections, https://meduza.io/en/feature/2026/02/20/prices-are-up-polls-are-down-and-kremlin-officials-think-propaganda-can-fix-the-problem-before-the-parliamentary-elections-meduza-sources-say",The pro-government news outlets Lenta.ru and Gazeta.ru used the suggested headlines in their coverage,the organisation itself
 nvukraine.com,pro-Kremlin outlet or mirror site,1,clone of the Ukrainian outlet NV,clone site,"NV, 25 Sep 2026, https://english.nv.ua/nation/russia-spreads-fake-140-million-ukraine-corruption-story-during-dmitriev-u-s-talks-50644647.html","a fake NV.ua webpage, registering the domain nvukraine.com and posting a fake article dated Sept. 23",the organisation itself
 news-pravda.com,site on the lists,56,,,,,
-rt.com,site on the lists,23,,,,,
+rt.com,site on the lists,24,,,,,
 rg.ru,site on the lists,13,,,,,
-nachdenkseiten.de,site on the lists,11,,,,,
+nachdenkseiten.de,site on the lists,12,,,,,
 anti-spiegel.ru,site on the lists,10,,,,,
+deutsch.news-pravda.com,site on the lists,8,,,,,
 news-kharkov.ru,site on the lists,7,,,,,
 vesti.ru,site on the lists,7,,,,,
-deutsch.news-pravda.com,site on the lists,6,,,,,
+sputniknews.cn,site on the lists,6,,,,,
 usa.news-pravda.com,site on the lists,6,,,,,
 armenia.news-pravda.com,site on the lists,5,,,,,
 germany.news-pravda.com,site on the lists,5,,,,,
-sputniknews.cn,site on the lists,5,,,,,
 compact-online.de,site on the lists,4,,,,,
 eu.news-pravda.com,site on the lists,4,,,,,
 francais.news-pravda.com,site on the lists,4,,,,,
 italy.news-pravda.com,site on the lists,4,,,,,
 iz.ru,site on the lists,4,,,,,
 spanish.news-pravda.com,site on the lists,4,,,,,
+weltwoche.ch,site on the lists,4,,,,,
 eadaily.com,site on the lists,3,,,,,
 kharkov-news.ru,site on the lists,3,,,,,
 apolut.net,site on the lists,2,,,,,
 news-front.su,site on the lists,2,,,,,
 smotrim.ru,site on the lists,2,,,,,
 southfront.press,site on the lists,2,,,,,
+sputnikglobe.com,site on the lists,2,,,,,
 strategic-culture.su,site on the lists,2,,,,,
 syria.news-pravda.com,site on the lists,2,,,,,
 1tv.ru,site on the lists,1,,,,,
@@ -68,7 +70,7 @@ md.news-pravda.com,site on the lists,1,,,,,
 norway.news-pravda.com,site on the lists,1,,,,,
 ntv.ru,site on the lists,1,,,,,
 ren.tv,site on the lists,1,,,,,
+report24.news,site on the lists,1,,,,,
 serbia.news-pravda.com,site on the lists,1,,,,,
-sputnikglobe.com,site on the lists,1,,,,,
 sputniknews.africa,site on the lists,1,,,,,
 tvzvezda.ru,site on the lists,1,,,,,

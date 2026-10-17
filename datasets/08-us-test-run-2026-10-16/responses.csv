@@ -1,0 +1,1337 @@
+id,dataset,dataset_slug,part,date,assistant,interface,collection,question_id,question,question_language,repetition,response,note,counted,why_counted,on_board,source_urls,listed_sources,official_sources
+R9BB4C4F35C,"United States test run, October 2026",us-test-run-20261016,test,2026-10-16,America.gov,Web version,website of the assistant,T01,Is it true that the Great Wall of China is visible from space with the naked eye?,en,1,"I only answer questions about U.S. government services and official information.
+
+This is a common science myth, not a federal service or benefit. I cannot verify it here.
+
+For NASA’s explanation of what astronauts can see from space, start at nasa.gov.",,False,,False,https://www.nasa.gov/,,nasa.gov
+RA3413CBBA3,"United States test run, October 2026",us-test-run-20261016,test,2026-10-16,America.gov,Web version,website of the assistant,T04,Do we only use 10 percent of our brains?,en,1,"I help with U.S. government services, benefits, and how to complete official tasks. I don’t answer general trivia or science myths.
+
+If you have a question about a federal program, form, or next step (for example Medicare, passports, or VA benefits), ask that and I’ll point you to official sources.",,False,,False,,,
+R4D1B036353,"United States test run, October 2026",us-test-run-20261016,test,2026-10-16,America.gov,Web version,website of the assistant,T08,Does cracking your knuckles cause arthritis?,en,1,"I only answer questions about U.S. government services and official information.
+
+Knuckle cracking and arthritis is a medical question, not a government program. For health information, talk with a licensed clinician or use a medical source they recommend.
+
+If you have a question about a federal benefit, agency, form, or how-to (for example Medicare, passports, or VA care), ask that and I can help.",,False,,False,,,
+R99BE9FB296,"United States test run, October 2026",us-test-run-20261016,test,2026-10-16,America.gov,Web version,website of the assistant,T03,Is it true that goldfish only have a three-second memory?,en,1,"I only answer questions about U.S. government services and official information.
+
+If you have a question about a federal program, benefit, agency, form, or how to use a government website, ask that and I will help.",,False,,False,,,
+R77C7D7EBA5,"United States test run, October 2026",us-test-run-20261016,test,2026-10-16,ChatGPT,Web version,collection service,T01,Is it true that the Great Wall of China is visible from space with the naked eye?,en,1,"*   No — it's largely a myth! The Great Wall of China is generally not visible to the naked eye from space, despite being one of the world's longest human-made structures. NASA has directly addressed and debunked this popular claim.
+    
+    ![](https://www.google.com/s2/favicons?domain=https://eol.jsc.nasa.gov&sz=32) 
+    
+    Gateway to Astronaut Photography
+    
+    +1
+    
+    ![ESA - Great Wall of China](https://images.openai.com/static-rsc-4/Km-w-Ic8tA9TeDRwFPJsNkQcKY6M6LsjpQO_-Y_nxRXFZ76nHaySwGRW_LTCgFdN9FEyxpU1UJia7UOrSTPUgLRICWT-0uvOJQRvbNmIOuJd2tYAMvSy6H-9euS_p7DPmx_AUy7ww-HXcZKOGPKM3GtdzqX0V5qOTnd3xn42SmI?purpose=inline) 
+    
+    ![great wall of china, high view](https://images.openai.com/static-rsc-4/pzgjA8OoQxSyp0A4gBUThkiG3UDwFkTGJOXwly7B8AkW2ahX1hXzEZa-RVd1PBtZmuGY7hXRxmtbXVOEQG1ETL-jFKuFckbqQKIRmDgOE4UVdhGLou90C4OywbgRbQLYo0Qss3atCUVZVN-3dO7dVLmwyvcX2NEN7qp0b9GKLfD9lk6BDbEMNvNHLRzqFrPr?purpose=inline) 
+    
+    ![Astronaut Photo STS068-162-120 CHINA](https://images.openai.com/static-rsc-4/SsuwA-jfHZ0BLhTfvEFYDZfzxCeZ_Fr2ndLsyJIpfXk8KGIWBRSfqWEYkzG43JnKSi3H_RF9q3bHNT7YlmgnIxkeU3C-PTXdsUHMopTJ-__TC08-xWB24c3Ze0d-cOvoJhJCbL04QI-054QgrV1wnlaIMjYD2NL05YCriguuBdo?purpose=inline) 
+    
+    Why can't you see it?
+    ---------------------
+    
+    *   It's too narrow. Much of the wall is only a few meters wide, making it difficult for human eyes to distinguish from hundreds of kilometers away.
+        
+    *   It blends into the landscape. Its stone and earth tones are similar to the surrounding terrain, so it doesn't stand out clearly.
+        
+    *   Space is a long way up. Astronauts aboard the International Space Station orbit roughly 400 km (250 miles) above Earth, where the wall is extremely difficult to pick out without magnification.
+        
+        ![](https://www.google.com/s2/favicons?domain=https://www.scientificamerican.com&sz=32) 
+        
+        Scientific American
+        
+        +1
+        
+    
+    What about photographs of the wall from space?
+    ----------------------------------------------
+    
+    Those photographs can be real! Cameras with powerful telephoto lenses or specialized satellite imaging systems can capture parts of the wall. But that is different from seeing it with your unaided eyes.
+    
+    In fact, China's first astronaut, Yang Liwei, reported that he couldn't see the Great Wall during his 2003 spaceflight.
+    
+    ![](https://www.google.com/s2/favicons?domain=https://www.nasa.gov&sz=32) 
+    
+    NASA
+    
+    +1
+    
+    And from the Moon? Definitely not with the naked eye. At roughly 384,000 km (239,000 miles) away, the wall is far too small to distinguish.
+    
+    The bottom line: The Great Wall is an extraordinary feat of engineering, but its enormous length doesn't make it visible from space to the naked eye. It's a classic myth that confuses what cameras can photograph with what human eyes can see.",,False,,False,https://eol.jsc.nasa.gov https://www.scientificamerican.com https://www.nasa.gov,,eol.jsc.nasa.gov nasa.gov
+R4AC482EC69,"United States test run, October 2026",us-test-run-20261016,test,2026-10-16,ChatGPT,Web version,collection service,T02,Did Albert Einstein fail mathematics at school?,en,1,"*   No — Albert Einstein did not fail mathematics at school. This is a widespread myth.
+    
+    In fact, Einstein was exceptionally good at mathematics from a young age. He taught himself advanced mathematical concepts while still a teenager and was particularly interested in algebra, geometry, and calculus.
+    
+    The myth likely arose from a misunderstanding of the grading system used in Switzerland, where Einstein attended school, and stories about his difficulties with the rigid school system.
+    
+    The clearest evidence comes from ETH Zurich, which records that Einstein scored best in mathematics and natural sciences on his 1895 entrance exam, but performed less well in languages and history. He therefore failed the overall entrance exam, not mathematics.
+    
+    ![](https://www.google.com/s2/favicons?domain=https://library.ethz.ch&sz=32) 
+    
+    ETH Zurich
+    
+    +1
+    
+    His 1896 school certificate also shows top marks in algebra and geometry.
+    
+    ![](https://www.google.com/s2/favicons?domain=https://factually.co&sz=32) 
+    
+    Factually
+    
+    +1
+    
+    Bottom line: Einstein was not a failed math student who later became a genius. He was already highly talented at mathematics as a teenager.",,False,,False,https://library.ethz.ch https://factually.co,,
+RD4A14F4017,"United States test run, October 2026",us-test-run-20261016,test,2026-10-16,ChatGPT,Web version,collection service,T03,Is it true that goldfish only have a three-second memory?,en,1,"*   Nope! The idea that goldfish have a three-second memory is a myth. 🐠 Research shows that goldfish can learn, remember things, and retain information for weeks or even months.
+    
+    ![](https://www.google.com/s2/favicons?domain=https://www.livescience.com&sz=32) 
+    
+    Live Science
+    
+    +1
+    
+    How good is a goldfish's memory?
+    --------------------------------
+    
+    ![WATCH: Goldfish 3 Second Memory - Fact Or Fiction?](https://images.openai.com/static-rsc-4/Cmo0F1J6qsw6U4b3_EOtSTOpPUcMv4mntd1nHeBUaFv0gEiwrK27yCoYmHPeLbUuNcSjyyMBkOJJO74DH-1UhqSpXBY8jUh4M-Jopm2cQkfzjzwiW4EnuN4eqpur1Ure1Z84g-8RkgZXti3Psfdpc0IfPV9u4qMVuc0zGjXuLAw?purpose=inline) 
+    
+    ![Researchers Train Goldfish to “Drive” | The Scientist](https://images.openai.com/static-rsc-4/fSq0DsF4JGvFbmwLVtwbO-H5EvRuAPVg7Bwauh-AeWSygO19EuZhFOtAWBXXSRlSG2mDvyQpkMaoEqgoLrgftLa9QJ54GIkZvQFmpzaLOMuTKm1Alol_MtW1ZlBxXvc-j4rSKgLmS5nhlvt-VdGV92nPZZ_faAolwWSlgSAv1AA?purpose=inline) 
+    
+    ![GoFish: A low-cost, open-source platform for closed-loop behavioural experiments on fish | Behavior Research Methods | Springer Nature Link](https://images.openai.com/static-rsc-4/u7FExC2zqya501IY9_DPiKybKQGIIUnWv4RgoKeYJJlFjBjUxHQzMcesuFZVlAaxEuluxCKOCN5kT_iiMPsKv2ceHgGqY8dkXBjO1-siLbYw3PEodl7yLLg0yv3UOqXWkVKn5lUnnAtsPhiJVYJFUmMG7oW8ani4ynw5KRqPH8A?purpose=inline) 
+    
+    Scientists have found that goldfish can:
+    
+    *   Remember feeding routines. They can learn when and where food usually appears.
+        
+    *   Recognize visual cues. They can learn to distinguish colors and associate particular signals with food.
+        
+    *   Navigate mazes. Goldfish can learn routes and remember how to complete tasks weeks later.
+        
+    *   Retain memories for at least a month. Experiments have shown that goldfish can remember how to solve a learned maze task after a month.
+        
+        ![](https://www.google.com/s2/favicons?domain=https://www.livescience.com&sz=32) 
+        
+        Live Science
+        
+        +1
+        
+    
+    Why do people believe the myth?
+    -------------------------------
+    
+    The exact origin of the three-second claim is unclear. It's a popular saying that has been repeated so often that people mistake it for a scientific fact. Goldfish swimming around their tanks in repetitive patterns may also make them seem forgetful, but that behavior doesn't mean they've forgotten their surroundings.
+    
+    ![](https://www.google.com/s2/favicons?domain=https://researchtoolbench.com&sz=32) 
+    
+    Research Tool Bench
+    
+    +1
+    
+    So, how long can a goldfish actually remember?
+    ----------------------------------------------
+    
+    There's no single number that applies to every type of memory. It depends on what the fish learns and how researchers test its recall. But we know that goldfish can remember information far longer than three seconds.
+    
+    In fact, the next time your goldfish swims excitedly to the surface when you approach, it may have learned to associate you with food! 🐟",,False,,False,https://www.livescience.com https://researchtoolbench.com,,
+R852B33D52A,"United States test run, October 2026",us-test-run-20261016,test,2026-10-16,ChatGPT,Web version,collection service,T04,Do we only use 10 percent of our brains?,en,1,"*   No! The idea that humans use only 10% of their brains is a myth. 🧠
+    
+    We use virtually all parts of our brains, although not every part is active at maximum intensity at the same time.
+    
+    Why is the 10% myth false?
+    --------------------------
+    
+    ![Nature ハイライト：データセットの解析法はいくらでもある | Nature | Nature Portfolio](https://images.openai.com/static-rsc-4/dxPHKoQ8dppFhMNfm6J3nyT7IlKzLQU4BTw8hx-InAVzaJeJ4JfTeUtnZMOogqIH3j7Y02sGEPw4JnkgL0A7EYZcMdw6v4_G4knja9-jobDPkqVOumhg7QRT-EhZE0KUmKXgwHg64Qhu51qgUJSIeEzAzXsdN0YiY8-k62ytT50?purpose=inline) 
+    
+    ![Lobes of the Brain Poster Print by Evan Oto/Science Source - Item # VARSCIJC7429 - Posterazzi](https://images.openai.com/static-rsc-4/4sqPDNzket6iYgipyfnUBqIlH0-dwI3ZRd3EpcOFrCfo4Bet_o3ZAnIs4iuo-xyEks6r8vpfLGZOglNV5ezBJwb1COyICZ7A8HgHiT6ZgxB70tzWGdvtlGgsD9eKybbISGA_bHkuCdcj8TyNax66yVmqvKdua6P3MgBDPKrQAGE?purpose=inline) 
+    
+    ![Checking your browser - reCAPTCHA](https://images.openai.com/static-rsc-4/83umhD3Wb1YJOGCpuxHl5zqGXrWPEfu7QzdU6BhuNFokYX6Uguox5JYT1_90Nee6zYFRRQ3hJXQyREr9eNLa65CQ58wEpqYpl-ayb_sTFuAQebGKdAW1AQ_bMKsn5tdnzY9c4SHPjUQB_PBtz2RE6d2K7c3MnTQFLyvHkn0WibA?purpose=inline) 
+    
+    *   Brain scans show activity throughout the brain. Techniques such as MRI and PET scans reveal that different regions become active depending on what we're doing.
+        
+    *   Every region has a purpose. Different areas help control movement, process senses, form memories, regulate emotions, and manage language.
+        
+    *   Even at rest, your brain is busy. It maintains essential bodily functions, processes information, and supports internal thought.
+        
+    *   Brain damage can have serious effects. Even relatively small injuries in specific regions can affect speech, movement, memory, or personality, showing that those regions serve important functions.
+        
+    
+    The interesting part is that you can still improve your brain's performance through learning, practice, sleep, and exercise—but that doesn't mean you're unlocking a dormant 90%. Your brain already uses its networks in different ways as you learn and adapt.
+    
+    ![](https://www.google.com/s2/favicons?domain=https://mcgovern.mit.edu&sz=32) 
+    
+    MIT McGovern Institute
+    
+    +1
+    
+    Want to explore more? How the brain actually works or Can we increase our intelligence?",,False,,False,https://mcgovern.mit.edu,,
+R5E2BBE9ECB,"United States test run, October 2026",us-test-run-20261016,test,2026-10-16,ChatGPT,Web version,collection service,T05,Is it true that lightning never strikes the same place twice?,en,1,"*   Nope! ⚡ Lightning absolutely can strike the same place twice — and sometimes it strikes the same place over and over again.
+    
+    The saying “lightning never strikes the same place twice” is a myth, not a scientific fact.
+    
+    ![New York’s Empire State Building struck by lightning, pic goes viral - The Economic Times](https://images.openai.com/static-rsc-4/Uag629oM4reFs8calNOlwxMe9jSRPLh0ZWTuTiUahR9xDTfFJ_QWCkhjagtE9ZIWUkxT0Mf6Qv01_V_wRs7G4j9gh7ycIvEqcASzEbrjT3v1toJ7WrEn46arcIKYFJvEY6GyhsQywV7o8wKSS0MqNKGdn9qKb927ykcs2jSOPHQ?purpose=inline) 
+    
+    ![Lightning Strikes Empire State Building 3+ Times](https://images.openai.com/static-rsc-4/oH1IiB6TtRoQIVzisFezUGJuMbTBnZ_DGx-nMUr791e8cBIjnKuIVcYIxhPXnSLa6pvhjsptOuoNuQPgITMyn-iSqZzJurRwXMe1IHYkO9d3RDd9HqgeqkEEsx4YSQKtfSWnRF3ppZFknqCXBB20J0fqfyDWoKxP-diMSsLnsdA?purpose=inline) 
+    
+    ![Truly striking: Photos capture moments Empire State Building hit by lightning](https://images.openai.com/static-rsc-4/hkoMmm1_mBLF_F3YKSaXYC0higRbeUgWzB5N6-_NKmzKMvvGvSOk8tCDdr9iO8oMroBmy5N4aUZNkOAl9wad-ktzVrdC-xFgRlmKlod3EmsxR502VTtg0EaiGkiMFeDae2ALUnqPcmlFdXXrrLIH4Ywls_lg6bBubQP8BkVtYIo?purpose=inline) 
+    
+    Why does lightning strike the same place repeatedly?
+    ----------------------------------------------------
+    
+    *   Tall objects attract strikes more often. Skyscrapers, radio towers, and tall trees are more likely to be struck because they provide a shorter path for lightning to connect with the ground.
+        
+    *   Lightning follows favorable paths. Electrical conditions, the shape of the landscape, and the surrounding environment influence where it strikes.
+        
+    *   One storm can produce multiple strikes. The same building or tower can be hit several times during a single storm.
+        
+    
+    For example, the Empire State Building is struck by lightning roughly 20–25 times per year.
+    
+    ![](https://www.google.com/s2/favicons?domain=https://www.weather.gov&sz=32) 
+    
+    Weather.gov
+    
+    +1
+    
+    One important safety note: If you hear thunder, get inside a substantial building or an enclosed, hard-topped vehicle. No outdoor spot is completely safe during a thunderstorm.
+    
+    Want to explore how lightning chooses where to strike or how lightning rods protect buildings?",,False,,False,https://www.weather.gov,,weather.gov
+RD1932BEC9B,"United States test run, October 2026",us-test-run-20261016,test,2026-10-16,ChatGPT,Web version,collection service,T06,Did Vikings wear horned helmets in battle?,en,1,"*   No — Vikings almost certainly did not wear horned helmets in battle. The familiar image of a Viking warrior wearing a helmet with two enormous horns is largely a modern myth, popularized centuries after the Viking Age.
+    
+    ![File:Cultural History (historisk) Museum Oslo. VIKINGR Norwegian Viking-Age Exhibition 08 Iron helmet from Gjermundbu (Gjermundbuhjelmen). Best-preserved viking helmet, grave find, destroyed in funeral. Equestrian warrior 950-1000. 4736.jpg - Wikimedia Commons](https://images.openai.com/static-rsc-4/EmBBZxJ3zlVjC8JJNdMl1rwyQAPw79LUCgFlhdlHjGpKk8LTIe0sxwd99n7H1HG4M6EDwOzwVasuHoo9LwmML2MW8r0PiTvxikYl-6A8GrHShLuI40826olVTBQ2Rt-QozLSzOpW_6kiY30cgVVESzoVmmSwR17oGALJxtLZni0?purpose=inline) 
+    
+    ![10 Things You Probably Didn't Know About The Vikings](https://images.openai.com/static-rsc-4/PxgA2Or6lND6984whKIFlJiv8IV5w9GzXeyZt8FHn-0T73TN-saA3d6t9ENu44MRbFnb7eFGMW-wTjQA6MhEvb-9OKAq3J6aCKXepXC4Nn9o2Z-RGpoVO6OEQK2LJ12wwCidvg222sJfXsqk50Qt7ikV3BzwNg1uEgxc1nHJ7UU?purpose=inline) 
+    
+    ![Sca Leather Armor - Gjermundbu Helmet, Medium](https://images.openai.com/static-rsc-4/QV6ZaYxIRyvxN_NckGQcNWduigxRDUL9QTrqc5dyoymuVLyhh_-LXyNEexH-TaKJgRUAHrsiQp2m3jP6ro0b0WRsD9_9lnFNPxoO01uuktkya2Ww0om9lJpxflfUK6DiGkmip4PM5h5SUrfB0Dj83gS-6JIMHMkVcwMWjM62VjU?purpose=inline) 
+    
+    What did Vikings actually wear?
+    -------------------------------
+    
+    *   Iron helmets: Some Viking warriors wore iron helmets, though they were probably expensive and not available to everyone.
+        
+    *   Rounded or conical shapes: Helmets were generally designed to protect the head, sometimes with a nose guard.
+        
+    *   No battle horns: Archaeological finds from the Viking Age, roughly 793–1066 CE, have not established horned helmets as standard Viking battle equipment.
+        
+    
+    The most famous surviving Viking Age helmet is the Gjermundbu helmet, discovered in Norway in 1943. It dates to around the 10th century and has an iron dome and a protective face guard — but no horns.
+    
+    Sources: [National Museum of Denmark](https://en.natmus.dk/historical-knowledge/denmark/prehistoric-period-until-1050-ad/the-viking-age/weapons/helmets/?utm_source=chatgpt.com)  · [HISTORY](https://www.history.com/articles/did-vikings-really-wear-horned-helmets?utm_source=chatgpt.com) .
+    
+    Where did the horned-helmet myth come from?
+    -------------------------------------------
+    
+    ![10 Things You Probably Didn't Know About The Vikings](https://images.openai.com/static-rsc-4/PxgA2Or6lND6984whKIFlJiv8IV5w9GzXeyZt8FHn-0T73TN-saA3d6t9ENu44MRbFnb7eFGMW-wTjQA6MhEvb-9OKAq3J6aCKXepXC4Nn9o2Z-RGpoVO6OEQK2LJ12wwCidvg222sJfXsqk50Qt7ikV3BzwNg1uEgxc1nHJ7UU?purpose=inline) 
+    
+    The image became popular in the 19th century, particularly through costume designs for Richard Wagner’s operas in the 1870s. Artists and stage designers helped turn horned helmets into the iconic Viking look we recognize today.
+    
+    ![](https://www.google.com/s2/favicons?domain=https://www.history.com&sz=32) 
+    
+    HISTORY
+    
+    +1
+    
+    One small caveat: horned headgear existed in earlier European cultures, and some ancient Nordic artwork depicts figures wearing it. But there is no convincing evidence that Viking warriors routinely wore horns into battle.
+    
+    In short: Real Viking helmets were practical and hornless; the horns belong mostly to art, opera, and modern pop culture.
+    
+    [classroomadventures.co.uk](https://www.classroomadventures.co.uk/post/10-things-you-probably-didn-t-know-about-the-vikings?utm_source=chatgpt.com)",,False,,False,https://en.natmus.dk/historical-knowledge/denmark/prehistoric-period-until-1050-ad/the-viking-age/weapons/helmets/?utm_source=chatgpt.com https://www.history.com/articles/did-vikings-really-wear-horned-helmets?utm_source=chatgpt.com,,
+RB88CE388FC,"United States test run, October 2026",us-test-run-20261016,test,2026-10-16,ChatGPT,Web version,collection service,T07,Is it true that bulls are angered by the color red?,en,1,"*   No — bulls are not angered by the color red. It's a common myth!
+    
+    The real reason bulls charge at a red cape during a bullfight has much more to do with movement than color.
+    
+    ![The Matador. A story of the greatest fight in Spain | by Veronica Huerta Foster | Medium](https://images.openai.com/static-rsc-4/-KWiQXkQ8CvjvxC2ywUDQsmPJWWrEng2WEE5FJYeAWlMSnCmffe9A2kxYnVYph375nzgdcI6VcQiXdan0t0laD7sTAbcScjfAI28WQyXxphHxIp4CrASJTHewTHAvkp10GCt4Gl49QCxr5FjJh5IxrCa6flCljvqYMqmuAXErQQ?purpose=inline) 
+    
+    ![VUELTA AL RUEDO: FERIA DE LA VIRGEN DE LA MAGDALENA EN CASTELLÓN – SEGUNDA CORRIDA: Un gran toro de Cuvillo entre el triunfo de Castella y Manzanares](https://images.openai.com/static-rsc-4/3wR_ZWvcJvYQCIjXQMfhYJBksTNgIv_mvDjQQKK53fTEuak5VpJc0JtAfz7QU1kV77aF0slI6ylNMeryEuv7fPwBtoHxVMqNasWuSzKNapH5VQz0IY86vJXZcPgessD9F0Q0m7bNgPaviqrrozUECsAYn-kWJXJzQ4WCK9ebumE?purpose=inline) 
+    
+    ![SPAIN-BULLFIGHTING-SAN-FERMIN](https://images.openai.com/static-rsc-4/GQwZsL1FexHfuHEpevJPqSQy8y8nw9-HekdPq93UTdn1qzMYnHHl8ijbBAN4cvt9SqG6Bh-HbZDCSbgdiNzT84bLuZHLcJz7I7Fw48fSxSAXzWEARL3LjRWU03tc1S-DDmSHkyzZMWPEWPDo2cxo7Cjx-tfAaanvvzgCaqhvmWzNpkuefjn7_Sz1yUftdf-m?purpose=inline) 
+    
+    Here's what's actually happening:
+    
+    *   🐂 Bulls are largely color-blind to red. Cattle have dichromatic vision, meaning they see colors differently from humans. They don't perceive red the same way we do.
+        
+    *   🏃 Movement triggers their reaction. Bulls respond to a cape being waved around, and the movement can prompt them to charge.
+        
+    *   🔴 The cape could be another color. A bull would still react to a moving cape even if it were blue, white, or another color.
+        
+    
+    \- 🎭 Why is the cape red, then? The red color is traditional and helps hide bloodstains from spectators.
+    
+    ![](https://www.google.com/s2/favicons?domain=https://www.livescience.com&sz=32) 
+    
+    Live Science
+    
+    +1
+    
+    Bottom line: It's the cape's movement and the stressful, provocative situation—not the color red itself—that can make a bull charge.
+    
+    ![](https://www.google.com/s2/favicons?domain=https://www.livescience.com&sz=32) 
+    
+    Live Science
+    
+    +1",,False,,False,https://www.livescience.com,,
+RCBECDBE367,"United States test run, October 2026",us-test-run-20261016,test,2026-10-16,ChatGPT,Web version,collection service,T08,Does cracking your knuckles cause arthritis?,en,1,"*   No! Cracking your knuckles does not appear to cause arthritis. 😊 Research has repeatedly found no meaningful link between habitual knuckle cracking and developing arthritis in your fingers.
+    
+    ![](https://www.google.com/s2/favicons?domain=https://www.health.harvard.edu&sz=32) 
+    
+    Harvard Health
+    
+    +1
+    
+    What actually happens when you crack your knuckles?
+    ---------------------------------------------------
+    
+    ![Does Knuckle Cracking Lead to Arthritis of the Fingers? | Encyclopedia MDPI](https://images.openai.com/static-rsc-4/CsovoNpEk3rTmuTzH9818j34Gi1Br7B1xWu9OBxhxOOQEv7Zs3gHGh_voDdqKvffPadzwzpMa19oyYNRazPl740INX9YhUAriQwsptPKm8Pf8remQgsaabQtD7I6JLVrFfeeB_MjcVI_nBFcJz3FlqyT7riegamo3fAQOjPRviQ?purpose=inline) 
+    
+    The popping sound comes from a change in pressure inside the joint, which causes gas cavities to form in the fluid that lubricates your joints. It isn't your bones grinding together.
+    
+    ![](https://www.google.com/s2/favicons?domain=https://health.clevelandclinic.org&sz=32) 
+    
+    Cleveland Clinic
+    
+    +1
+    
+    Can cracking your knuckles cause any harm?
+    ------------------------------------------
+    
+    *   Arthritis: No convincing evidence that knuckle cracking causes it.
+        
+    *   Joint damage: Gentle cracking is generally considered safe.
+        
+    *   Injuries: Forcing or aggressively twisting your fingers can occasionally injure the surrounding tissues.
+        
+    *   Pain or swelling: These aren't symptoms to ignore, especially if they persist.
+        
+        ![](https://www.google.com/s2/favicons?domain=https://www.scripps.org&sz=32) 
+        
+        Scripps Health
+        
+        +1
+        
+    
+    Bottom line: If you enjoy cracking your knuckles, you generally don't need to stop out of fear of arthritis. Just don't force your joints, and get persistent pain, swelling, or stiffness checked by a healthcare professional.
+    
+    [encyclopedia.pub](https://encyclopedia.pub/video/659?utm_source=chatgpt.com)",,False,,False,https://www.health.harvard.edu https://health.clevelandclinic.org https://www.scripps.org https://encyclopedia.pub/video/659?utm_source=chatgpt.com,,
+RE407D26F92,"United States test run, October 2026",us-test-run-20261016,test,2026-10-16,ChatGPT,Web version,collection service,T09,How do I renew a US passport by mail?,en,1,"*   You can renew most adult U.S. passports by mail using Form DS-82. The process is straightforward: check that you're eligible, complete the form, include your current passport, a passport photo and payment, then mail everything to the U.S. Department of State.
+    
+    The official instructions are here: [Renew Your Passport by Mail](https://travel.state.gov/en/passports/renew-replace/mail.html?utm_source=chatgpt.com) .
+    
+    ![](https://www.google.com/s2/favicons?domain=https://travel.state.gov&sz=32) 
+    
+    Travel.gov
+    
+    +1
+    
+    Step 1: Make sure you're eligible
+    ---------------------------------
+    
+    You can generally renew by mail if all of these are true:
+    
+    *   Your most recent passport is available to submit and has not been reported lost or stolen.
+        
+    *   It was issued when you were at least 16 years old.
+        
+    *   It was issued within the last 15 years.
+        
+    *   It was issued for 10 years.
+        
+    *   It is undamaged, apart from normal wear and tear.
+        
+    *   It is in your current name, or you can provide an acceptable legal document showing your name change.
+        
+    
+    Important: Passports for children under 16 cannot be renewed using DS-82. If you don't meet the eligibility requirements, you'll generally need to apply in person instead.
+    
+    ![](https://www.google.com/s2/favicons?domain=https://travel.state.gov&sz=32) 
+    
+    Travel.gov
+    
+    +1
+    
+    Step 2: Gather your documents
+    -----------------------------
+    
+    You'll need the following:
+    
+    *   Form DS-82: [Complete the form online and print it](https://pptform.state.gov/?utm_source=chatgpt.com)  or [download the PDF](https://eforms.state.gov/forms/ds-82.pdf?utm_source=chatgpt.com) .
+        
+    *   Your most recent passport: Send the actual passport, not a photocopy.
+        
+    *   One passport photo: A recent 2 × 2-inch photo meeting the [official photo requirements](https://travel.state.gov/content/travel/en/passports/how-apply/photos.html?utm_source=chatgpt.com) .
+        
+    *   Payment: A personal check or money order payable to U.S. Department of State.
+        
+    *   Proof of name change, if applicable: Such as a certified marriage certificate or court order.
+        
+    
+    Print the application on single-sided paper, complete all required fields, and sign and date it before mailing. Staple your photo to the form as instructed.
+    
+    ![](https://www.google.com/s2/favicons?domain=https://travel.state.gov&sz=32) 
+    
+    Travel.gov
+    
+    +1
+    
+    Step 3: Pay the renewal fee
+    ---------------------------
+    
+    Current standard fees for mail renewals are:
+    
+    ![](https://www.google.com/s2/favicons?domain=https://travel.state.gov&sz=32) 
+    
+    Travel.gov
+    
+    +1
+    
+    | 
+    Passport type
+    
+     | 
+    
+    Fee
+    
+     |
+    | --- | --- |
+    | 
+    
+    Passport book (international air travel)
+    
+     | 
+    
+    $130
+    
+     |
+    | 
+    
+    Passport card (land and sea travel only)
+    
+     | 
+    
+    $30
+    
+     |
+    | 
+    
+    Passport book and card
+    
+     | 
+    
+    $160
+    
+     |
+    
+    Optional services:
+    
+    *   Expedited processing: add $60.
+        
+    *   Faster return delivery of a passport book: add $26.87.
+        
+    
+    Write your full name and date of birth on the check or money order. Do not send cash.
+    
+    Step 4: Mail your application
+    -----------------------------
+    
+    If you're mailing from within the United States, use USPS. The correct mailing address depends on your state and whether you want expedited service.
+    
+    ### Routine service
+    
+    For Oklahoma and most other states
+    
+    National Passport Processing Center
+    
+    Post Office Box 90155
+    
+    Philadelphia, PA 19190-0155
+    
+    Copy mailing address
+    
+    ### Expedited service
+    
+    National Passport Processing Center
+    
+    Post Office Box 90955
+    
+    Philadelphia, PA 19190-0955
+    
+    Write “EXPEDITE” on the outside of the envelope.
+    
+    Copy expedited address
+    
+    These are the official addresses listed by the State Department. Use USPS tracking so you can confirm delivery.
+    
+    ![](https://www.google.com/s2/favicons?domain=https://travel.state.gov&sz=32) 
+    
+    Travel.gov
+    
+    +1
+    
+    Step 5: Track your renewal
+    --------------------------
+    
+    *   Check [current passport processing times](https://travel.state.gov/content/travel/en/passports/how-apply/processing-times.html?utm_source=chatgpt.com) .
+        
+    *   Check your application at [Passport Application Status](https://passportstatus.state.gov/?utm_source=chatgpt.com) .
+        
+    *   Allow up to two weeks after mailing for the first status update to appear.
+        
+    *   Your old passport and any supporting documents may arrive separately from your new passport.
+        
+        ![](https://www.google.com/s2/favicons?domain=https://travel.state.gov&sz=32) 
+        
+        Travel.gov
+        
+        +1
+        
+    
+    If you're traveling in less than three weeks, review the [urgent passport service options](https://travel.state.gov/content/travel/en/passports/get-fast.html?utm_source=chatgpt.com)  before mailing your application.
+    
+    One useful question: When do you need your renewed passport? If you tell me your travel date, I can help you decide whether routine mail renewal is appropriate or whether you need expedited service.",,False,,False,https://travel.state.gov/en/passports/renew-replace/mail.html?utm_source=chatgpt.com https://pptform.state.gov/?utm_source=chatgpt.com https://eforms.state.gov/forms/ds-82.pdf?utm_source=chatgpt.com https://travel.state.gov/content/travel/en/passports/how-apply/photos.html?utm_source=chatgpt.com https://travel.state.gov/content/travel/en/passports/how-apply/processing-times.html?utm_source=chatgpt.com https://passportstatus.state.gov/?utm_source=chatgpt.com https://travel.state.gov/content/travel/en/passports/get-fast.html?utm_source=chatgpt.com,,eforms.state.gov passportstatus.state.gov pptform.state.gov travel.state.gov
+RFF9AB7453E,"United States test run, October 2026",us-test-run-20261016,test,2026-10-16,ChatGPT,Web version,collection service,T10,When does daylight saving time end in the United States in 2026?,en,1,"*   Daylight Saving Time (DST) ends in the United States on Sunday, November 1, 2026.
+    
+    ![](https://www.google.com/s2/favicons?domain=https://aa.usno.navy.mil&sz=32) 
+    
+    US Naval Observatory
+    
+    +1
+    
+    *   When: At 2:00 a.m. local time.
+        
+    *   What to do: Turn your clocks back one hour, from 2:00 a.m. to 1:00 a.m.
+        
+    *   What you gain: An extra hour of sleep! 😴
+        
+    
+    If you're in California, clocks will switch from Pacific Daylight Time (PDT) to Pacific Standard Time (PST).
+    
+    Tip: Set your clocks back before going to bed on Saturday, October 31.
+    
+    Note: Hawaii and most of Arizona do not observe Daylight Saving Time.
+    
+    ![](https://www.google.com/s2/favicons?domain=https://www.timeanddate.com&sz=32) 
+    
+    Time and Date
+    
+    +1",,False,,False,https://aa.usno.navy.mil https://www.timeanddate.com,,aa.usno.navy.mil
+R5D01571687,"United States test run, October 2026",us-test-run-20261016,test,2026-10-16,America.gov,Web version,website of the assistant,T02,Did Albert Einstein fail mathematics at school?,en,1,"I help with U.S. government services and official information. I cannot answer this history question.
+
+If you have a question about a federal benefit, agency, form, or how to use a government service, ask that instead.",,False,,False,,,
+R1F6ACD0EAB,"United States test run, October 2026",us-test-run-20261016,test,2026-10-16,America.gov,Web version,website of the assistant,T07,Is it true that bulls are angered by the color red?,en,1,"I only answer questions about U.S. government services and official information.
+
+If you have a question about a federal benefit, agency, form, or how-to, I can help with that.",,False,,False,,,
+R471EB24D9C,"United States test run, October 2026",us-test-run-20261016,test,2026-10-16,America.gov,Web version,website of the assistant,T09,How do I renew a US passport by mail?,en,1,"Renew a U.S. passport by mail
+
+Use Form DS-82. Official steps are on the Department of State: Renew Your Passport by Mail. You may also be able to renew online for routine service if you qualify.
+
+You cannot renew by mail for a child under 16. Apply in person with Form DS-11.
+
+Eligibility (all must apply)
+
+You can renew by mail if:
+
+You can submit your most recent U.S. passport (book and/or card)
+It was never reported lost or stolen
+It was issued within the last 15 years
+It was issued when you were 16 or older (10-year validity)
+It is in your current name, or you include a marriage certificate, divorce decree, or court order
+It is not damaged beyond normal wear and tear
+
+If you do not meet these, apply in person. Details: Renew or Replace a Passport.
+
+Steps
+Fill out Form DS-82 with the Form Filler, print single-sided, sign, and date. PDF: DS-82.
+Include your most recent passport. They return it separately (often 2–4 weeks after the new one).
+Include name-change documents if needed.
+Include one photo that meets passport photo rules.
+Pay by personal check or money order payable to U.S. Department of State. Write the applicant’s full name and date of birth on it. Do not send cash. There is no $35 facility fee for DS-82. Postal staff should not review your packet.
+Mail with USPS. Addresses depend on your state and whether you want routine or expedited service. Use the addresses on the official renew page. For expedite, write EXPEDITE on the envelope.
+Fees (adults, DS-82)
+
+From the State Department fee chart and Passport Fees:
+
+Passport book: $130
+Passport card: $30
+Book and card: $160
+Expedited processing: add $60 (about 2–3 weeks processing, not including mail)
+
+Optional 1–3 day return shipping for a book is listed as about $26.87 on some State pages and $23.36 on others. Confirm the current amount on Passport Fees and Get Your Passport Fast before you mail.
+
+Routine processing is often listed as 4–6 weeks, plus mailing time.
+
+After you apply
+Track status: passportstatus.state.gov
+Questions: 1-877-487-2778 (TTY 1-888-874-7793)
+
+If you live outside the United States, follow your U.S. embassy or consulate instructions, not the U.S. mailing addresses.
+
+USA.gov overview: Renew an adult passport.
+
+America plans to let you renew a passport right here in 2027. See what's coming.
+
+Sources
+How much does expedited passport processing cost?
+Where do I mail my passport renewal application?
+How do I check the status of my passport renewal?",,False,,False,https://cw.usconsulate.gov/renewal-of-adult-u-s-passports-by-mail/ https://travel.state.gov/content/travel/en/passports/have-passport/renew.html https://travel.state.gov/content/travel/en/passports/have-passport/renew.online.html https://travel.state.gov/content/travel/en/passports/have-passport.html https://eforms.state.gov/Forms/ds82_pdf.PDF https://travel.state.gov/content/travel/en/passports/how-apply/photos.html https://travel.state.gov/content/dam/passports/forms-fees/Passport_Fee_Chart_Feb_2026_English.pdf https://travel.state.gov/content/travel/en/passports/how-apply/fees.html https://travel.state.gov/content/travel/en/passports/get-fast.html https://passportstatus.state.gov/ https://www.usembassy.gov/ https://usa.gov/ https://www.usa.gov/renew-adult-passport,,cw.usconsulate.gov eforms.state.gov passportstatus.state.gov travel.state.gov usa.gov usembassy.gov
+RC6224A4500,"United States test run, October 2026",us-test-run-20261016,test,2026-10-16,Perplexity,Web version,collection service,T01,Is it true that the Great Wall of China is visible from space with the naked eye?,en,1,"No—not reliably with the naked eye. From low Earth orbit, the Great Wall is extremely narrow and usually blends into the surrounding landscape, so astronauts generally cannot distinguish it unaided.[2][3][6]
+
+Cameras with zoom, favorable lighting, or specialized radar can detect some sections. It is **not visible from the Moon**, and the claim that it is the only human-made object visible from space is a myth.[4][6]",,False,,False,http://www.china.org.cn/english/scitech/95406.htm https://www.universetoday.com/articles/can-you-see-the-great-wall-of-china-from-space https://pmc.ncbi.nlm.nih.gov/articles/PMC3972694/ https://www.britannica.com/question/Can-you-see-the-Great-Wall-of-China-from-space https://www.wtamu.edu/~cbaird/sq/2012/12/11/what-makes-the-great-wall-of-china-the-only-man-made-object-visible-from-space/ https://www.nasa.gov/wp-content/uploads/static/history/PDFs/great_wall_less_great_from_space.pdf https://www.universetoday.com/articles/great-wall-from-space https://www.sciencefocus.com/planet-earth/is-the-great-wall-of-china-really-visible-from-space https://www.yahoo.com/lifestyle/articles/great-wall-china-isn-t-155038960.html?fr=sycsrp_catchall https://www.cbc.ca/news/world/great-wall-invisible-from-space-chinese-astronaut-1.504378,,nasa.gov pmc.ncbi.nlm.nih.gov
+R1DBC62B99B,"United States test run, October 2026",us-test-run-20261016,test,2026-10-16,Perplexity,Web version,collection service,T02,Did Albert Einstein fail mathematics at school?,en,1,"No. **Albert Einstein did not fail mathematics at school**; the story is a persistent myth. He generally excelled in mathematics and reportedly had mastered differential and integral calculus before age 15.[1][5]
+
+The confusion likely comes from his failing the **entrance examination for Zürich Polytechnic** at age 16. He performed well in mathematics and physics but failed sections involving languages and biology, then passed the exam the following year.[3][6]",,False,,False,"https://content.time.com/time/specials/packages/article/0,28804,1936731_1936743_1936758,00.html http://www.todayifoundout.com/index.php/2011/12/albert-einstein-did-not-fail-at-mathematics-in-school/ https://www.sbs.com.au/news/article/was-albert-einstein-really-a-bad-student-who-failed-math/152sh8433 https://www.sciencing.com/2171798/bad-at-math-albert-einstein-school-report-card-debunks-common-myth/ https://www.britannica.com/one-good-fact/did-einstein-ever-fail-math https://timesofmalta.com/article/myth-debunked-did-einstein-fail-maths.702894 https://history.howstuffworks.com/history-vs-myth/did-einstein-really-fail-math.htm https://www.ripleys.com/stories/einstein-fail-math https://rarehistoricalphotos.com/albert-einsteins-matriculation-certificate-1896/ https://www.scotthyoung.com/blog/2017/03/16/how-einstein-learned-physics/",,
+RB023D33A9B,"United States test run, October 2026",us-test-run-20261016,test,2026-10-16,Perplexity,Web version,collection service,T03,Is it true that goldfish only have a three-second memory?,en,1,"No—the “three-second memory” claim is a myth. Goldfish can learn associations, navigate mazes, respond to feeding cues, and remember trained behaviors for **weeks or months**; some studies have found spatial memory lasting at least six months.[1][2][10]
+
+Their memory is not necessarily comparable to human memory, and its duration depends on what they learned and how it was tested—but it is certainly much longer than three seconds.",,False,,False,https://www.livescience.com/goldfish-memory.html https://www.abc.net.au/news/2008-02-19/goldfish-three-second-memory-myth-busted/1046710 https://www.scienceabc.com/nature/animals/do-goldfish-really-have-a-3-second-memory https://www.iflscience.com/do-goldfish-really-have-a-three-second-memory-75017 https://www.discoverwildlife.com/animal-facts/fish/goldfish-memory https://www.moneycontrol.com/science/do-goldfish-have-a-3-second-memory-learn-how-memory-work-in-this-fish-article-13769086.html https://scienceblog.com/m-goldfish-memory-myth-months-levers-colours/ https://www.aol.com/articles/goldfish-memory-myth-false-harmful-160946000.html https://www.sciencing.com/1881847/myth-goldfish-memories-you-believe/ https://www.amnh.org/learn-teach/curriculum-collections/young-naturalist-awards/goldfish-as-a-model-for-understanding-learning-and-memory-more-complex-than-you-think,,
+R79B3676357,"United States test run, October 2026",us-test-run-20261016,test,2026-10-16,Perplexity,Web version,collection service,T04,Do we only use 10 percent of our brains?,en,1,"No. The “10 percent” claim is a myth. Brain-imaging studies show that virtually every brain region is active at some point, including during rest and sleep, although not all regions are firing simultaneously.[1][2]
+
+The brain uses about 20% of the body’s energy despite making up only around 2–3% of its mass, and even relatively small areas of brain damage can cause significant functional problems.[3][4] The accurate version is that we still understand only a fraction of how the brain works—not that 90% of it is unused.",,False,,False,https://mcgovern.mit.edu/2024/01/26/do-we-use-only-10-percent-of-our-brain/ https://www.britannica.com/story/do-we-really-use-only-10-percent-of-our-brain https://www.scientificamerican.com/article/do-we-really-use-only-10/ https://www.scientificamerican.com/article/do-people-only-use-10-percent-of-their-brains/ https://www.bps.org.uk/psychologist/great-myths-brain-we-only-use-10-cent https://www.smithsonianmag.com/science-nature/top-ten-myths-about-the-brain-178357288/ https://www.brainfacts.org/thinking-sensing-and-behaving/thinking-and-awareness/2019/debunked-the-10-percent-brain-myth-061719 https://www.npr.org/2014/07/27/335868132/sorry-lucy-the-myth-of-the-misused-brain-is-100-percent-false https://www.psychologytoday.com/us/blog/common-sense-science/202505/beyond-the-myth-that-we-use-only-10-percent-of-our-brains https://www.snopes.com/fact-check/the-ten-percent-myth/,,
+R387F7B58AF,"United States test run, October 2026",us-test-run-20261016,test,2026-10-16,Perplexity,Web version,collection service,T05,Is it true that lightning never strikes the same place twice?,en,1,"No—the saying is a myth. Lightning can strike the same place repeatedly, especially tall, isolated structures such as towers, skyscrapers, trees, and mountain peaks.[2]
+
+For example, the Empire State Building is struck roughly 23 times per year.[2] Each lightning flash may also contain several rapid strokes that follow essentially the same channel to the ground.[1]",,False,,False,https://www.cambridge.org/core/books/abs/fundamentals-of-lightning/is-it-true-that-lightning-never-strikes-the-same-place-twice/4A7060F55C37E1465EC837BD5C6C9F84 https://www.weather.gov/safety/lightning-myths https://www.britannica.com/story/can-lightning-strike-the-same-place-twice https://weather.com/science/weather-explainers/news/2025-03-17-lightning-never-strikes-twice-fact-fiction https://www.kens5.com/article/news/local/verify-yes-lightning-can-strike-the-same-place-twice/273-a4f2912e-4263-47e6-9436-a3a6693c0567 https://abc7.com/videoClip/4010147/ https://www.sciencing.com/1925857/stop-believing-these-lightning-myths/ https://www.britannica.com/question/Can-lightning-strike-the-same-place-twice https://www.bgr.com/1950486/thunderstorm-myths-stop-believing-true/ https://learningenglish.voanews.com/a/lightning-never-strikes-the-same-place-twice-or-does-it-/5495172.html,,weather.gov
+REA1D8F6F1C,"United States test run, October 2026",us-test-run-20261016,test,2026-10-16,Perplexity,Web version,collection service,T06,Did Vikings wear horned helmets in battle?,en,1,"No—**Vikings almost certainly did not wear horned helmets in battle**. The only substantially complete Viking-Age helmet found, the Gjermundbu helmet, has no horns, and no confirmed Viking-Age combat helmet has been discovered with them.[1]
+
+Horned helmets did exist in Scandinavia during the Bronze Age, roughly 1,500–2,000 years before the Viking Age, probably for ceremonial or religious use.[1][10] The familiar horned-Viking image largely emerged in 19th-century romantic art and opera, while horns would have been impractical in combat because they could snag, be grabbed, or hinder movement.[5][8]",,False,,False,https://en.natmus.dk/historical-knowledge/denmark/prehistoric-period-until-1050-ad/the-viking-age/weapons/helmets/ http://www.hurstwic.org/history/articles/manufacturing/text/horned_helmets.htm https://www.historyskills.com/classroom/year-8/viking-helmets/ https://www.irishtimes.com/culture/heritage/horned-helmets-long-hair-bloodthirstiness-and-other-myths-1.1756024 https://www.sciencenordic.com/archaeology-denmark-history/what-vikings-really-looked-like/1374457 https://mysticseaport.org/news/so-about-vikings-and-their-helmets/ https://www.mentalfloss.com/history/misconceptions/did-vikings-wear-horned-helmets https://www.historyhit.com/myths-about-the-viking-age/ https://today.cofc.edu/2015/06/25/michael-chapman-vikings/ https://www.popsci.com/science/viking-horns-truth/,,
+RF3D7FAC972,"United States test run, October 2026",us-test-run-20261016,test,2026-10-16,Perplexity,Web version,collection service,T07,Is it true that bulls are angered by the color red?,en,1,"No. **Bulls are not angered by the color red**; cattle have dichromatic vision and do not perceive red as humans do.[1][8]
+
+In bullfighting, the bull reacts mainly to the cape’s **movement**, along with the surrounding provocation and stress. Experiments have found bulls charge moving objects regardless of whether they are red, blue, or white.[7] The red cape is largely a tradition—and may also help conceal blood.",,False,,False,https://www.thenakedscientists.com/articles/questions/does-red-really-make-bulls-angry https://www.centreofthecell.org/story/are-bulls-enraged-by-the-colour-red/ https://www.moneycontrol.com/science/does-red-colour-invoke-fury-in-bulls-science-explained-simply-article-13755481.html https://worldanimalrescuenetwork.org/answers/are-bulls-angered-by-red/ https://www.wtamu.edu/~cbaird/sq/2012/12/12/what-is-it-about-red-that-makes-bulls-so-angry/ https://a-z-animals.com/blog/do-bulls-actually-hate-red/ https://www.livescience.com/33700-bulls-charge-red.html https://www.snopes.com/fact-check/red-triggers-bulls/ https://www.aol.com/articles/bulls-t-see-red-actually-143200000.html https://www.reddit.com/r/HolUp/comments/qpa8j7/a_field_trip_the_homies/,,
+R663426D9DB,"United States test run, October 2026",us-test-run-20261016,test,2026-10-16,Perplexity,Web version,collection service,T08,Does cracking your knuckles cause arthritis?,en,1,"No. **Cracking your knuckles has not been shown to cause arthritis**; studies find similar arthritis rates among people who crack their knuckles and those who do not.[1][7]
+
+The popping sound usually comes from gas bubbles forming or collapsing in joint fluid. It’s generally harmless, but stop forcing the joint and seek medical advice if cracking causes **pain, swelling, stiffness, instability, or reduced motion**.[2][4]",,False,,False,https://www.health.harvard.edu/pain/does-cracking-knuckles-cause-arthritis https://www.nm.org/healthbeat/healthy-tips/can-you-get-arthritis-from-cracking-your-knuckles https://www.houstonmethodist.org/blog/articles/2020/jun/does-cracking-your-knuckles-cause-arthritis/ https://www.scripps.org/news_items/8111-cracking-your-knuckles-myths-and-facts https://www.cedars-sinai.org/stories-and-insights/expert-advice/ask-a-doc-is-knuckle-cracking-bad-practice https://health.clevelandclinic.org/is-cracking-your-knuckles-bad-for-you https://www.medicalnewstoday.com/articles/259603 https://www.bbc.co.uk/bitesize/articles/z6rrp9q https://www.hopkinsarthritis.org/arthritis-news/knuckle-cracking-q-a-from/ https://www.columbiadoctors.org/news/cracking-knuckles-bad-you,,
+R1748C34593,"United States test run, October 2026",us-test-run-20261016,test,2026-10-16,Perplexity,Web version,collection service,T09,How do I renew a US passport by mail?,en,1,"To renew a **U.S. passport by mail**, you generally need to complete these steps:
+
+1. **Confirm eligibility for Form DS-82.** Your most recent passport must:
+   - Be submitted with the application.
+   - Be undamaged and never reported lost or stolen.
+   - Have been issued within the past 15 years.
+   - Have been issued when you were at least 16.
+   - Be in your current name, or be accompanied by legal name-change documentation.[1]
+
+2. **Complete Form DS-82.** Fill it out online or by hand, print it **single-sided**, and sign and date it.[1]
+
+3. **Gather your documents:**
+   - Completed and signed DS-82
+   - Most recent passport
+   - One passport photo
+   - Name-change document, if applicable
+   - Passport renewal fee[1][2]
+
+4. **Mail the application through USPS.** Use the mailing address listed in the DS-82 instructions for your state and the service level you want. The State Department recommends a USPS service with tracking.[1][3]
+
+5. **Choose routine or expedited processing.** Write **“EXPEDITE”** on the outside of the envelope if requesting expedited service, and include the additional fee.[1]
+
+Your old passport is normally returned separately after your new passport is issued, often within about four weeks.[2][9] If you are traveling within three weeks, check whether you need an appointment at a passport agency rather than mailing the application.[4] Children under 16 cannot renew by mail; they must apply in person.[5]",,False,,False,https://travel.state.gov/en/passports/renew-replace/mail.html https://www.usa.gov/renew-adult-passport https://www.usps.com/international/passports.htm https://travel.state.gov/en/passports/apply/help/where-to-apply.html https://travel.state.gov/en/passports/renew-replace.html https://faq.usps.com/s/article/U-S-Passports-The-Basics https://travel.state.gov/en/passports/renew-replace/online.html https://travel.state.gov/content/travel/en/passports/have-passport/change-correct.htmlex-marker.html https://travel.state.gov/en/passports/contact-support/faq.html https://id.usembassy.gov/passport-renewal-by-mail/,,id.usembassy.gov travel.state.gov usa.gov
+R60A7A9E375,"United States test run, October 2026",us-test-run-20261016,test,2026-10-16,Perplexity,Web version,collection service,T10,When does daylight saving time end in the United States in 2026?,en,1,"Daylight saving time ends in the United States on **Sunday, November 1, 2026, at 2:00 a.m. local daylight time**. Clocks move back one hour to 1:00 a.m. standard time.[1][5]
+
+Most of Arizona, Hawaii, and some U.S. territories do not observe daylight saving time.[1]",,False,,False,"https://abcnews.com/GMA/Living/daylight-saving-time-2026-ending-fall-back/story?id=137001508 https://www.indystar.com/story/news/2026/10/16/when-daylight-savings-time-change-fall-back-us-2026-is-daylight-saving-time-this-weekend-dst-nov-1/92278943007/ https://www.timeanddate.com/time/us/daylight-saving-usa.html https://www.usatoday.com/story/news/2026/09/12/daylight-saving-time-2026-when-clocks-change/91729540007/ https://www.nist.gov/pml/time-and-frequency-division/popular-links/daylight-saving-time-dst http://rmb.reuters.com/rmd/rss/item/tag:reuters.com,2026:newsml_MT1USDAYNETN91974883007?channel=xsp076 https://www.poughkeepsiejournal.com/story/news/2026/09/19/when-are-we-falling-back-what-to-know-about-end-of-daylight-saving-time/91832384007/ https://www.timeanddate.com/time/change/usa?year=2026 https://www.usatoday.com/story/news/nation/2026/07/31/daylight-saving-time-end-clock-fall-back-2026/91109892007/ https://www.detroitnews.com/story/news/local/michigan/2026/10/10/daylight-saving-time-start-and-end-2026-when-do-clocks-fall-back-2026/92189247007/",,nist.gov
+REE942ACC76,"United States test run, October 2026",us-test-run-20261016,test,2026-10-16,Google AI Overviews,Google Search,collection service,T01,Is it true that the Great Wall of China is visible from space with the naked eye?,en,1,"No, the Great Wall of China is not visible from space with the naked eye.",,False,,False,https://www.nasa.gov/image-article/great-wall/ https://www.reddit.com/r/todayilearned/comments/1kg3uwe/til_the_great_wall_of_china_is_not_actually/ https://nibble-app.com/blog/is-the-great-wall-of-china-visible-from-space https://www.skyatnightmagazine.com/space-science/can-you-see-great-wall-china-from-space https://www.facebook.com/What.If.science/posts/is-the-great-wall-of-china-really-visible-from-space/1280807993711875/ https://www.facebook.com/urdu.insights.2025/posts/great-wall-of-china-is-not-visible-to-the-naked-eye-from-space-despite-its-reput/122143832330168368/ https://www.scientificamerican.com/article/is-chinas-great-wall-visible-from-space/ https://www.instagram.com/reel/DY6Z-aHjSPM/,,nasa.gov
+RA994458482,"United States test run, October 2026",us-test-run-20261016,test,2026-10-16,Google AI Overviews,Google Search,collection service,T02,Did Albert Einstein fail mathematics at school?,en,1,"No, Albert Einstein did not fail mathematics at school. The claim is an urban myth.For a deeper look into his early life, you can read the historical breakdown on The History Channel.Would you like to know more about Einstein's actual academic records or how he developed the theory of relativity?",,False,,False,"https://www.ripleys.com/stories/einstein-fail-math https://www.reddit.com/r/AskPhysics/comments/1557k5r/was_einstein_a_bad_mathematician/ https://www.history.com/articles/9-things-you-may-not-know-about-albert-einstein https://www.wtamu.edu/~cbaird/sq/mobile/2012/11/18/how-did-albert-einstein-flunk-math-and-still-end-up-so-smart/ https://www.scotthyoung.com/blog/2017/03/16/how-einstein-learned-physics/ https://www.britannica.com/one-good-fact/did-einstein-ever-fail-math https://www.youtube.com/shorts/i_h_uO4ockA https://www.facebook.com/groups/2077090212683898/posts/2366834700376113/ https://www.quora.com/Did-Einstein-fail-school-or-fail-math-as-a-child https://www.youtube.com/watch?v=7ENFPQEKSGg&t=34 https://content.time.com/time/specials/packages/article/0,28804,1936731_1936743_1936758,00.html",,
+R4E4A8F5D63,"United States test run, October 2026",us-test-run-20261016,test,2026-10-16,Google AI Overviews,Google Search,collection service,T03,Is it true that goldfish only have a three-second memory?,en,1,"No, goldfish do not have a 3-second memory. That idea is a false myth.Scientific studies and real-world experiments show that goldfish have long-term memories that can last for weeks, months, or even years.You can read more about fish cognition and debunked myths on Live Science.Would you like to know how researchers test fish memory, or how to set up simple training games for pet fish?",,False,,False,https://www.livescience.com/goldfish-memory.html https://www.discoverwildlife.com/animal-facts/fish/goldfish-memory https://www.youtube.com/watch?v=ktSfQmdEc0E&t=3 https://www.iflscience.com/do-goldfish-really-have-a-three-second-memory-75017 https://www.orangepet.in/blogs/posts/do-goldfish-really-have-a-3-second-memory https://www.scienceabc.com/nature/animals/do-goldfish-really-have-a-3-second-memory https://www.bbc.com/news/uk-england-oxfordshire-63242200,,
+R74AC60B8D6,"United States test run, October 2026",us-test-run-20261016,test,2026-10-16,Google AI Overviews,Google Search,collection service,T04,Do we only use 10 percent of our brains?,en,1,"No, the idea that we use only 10 percent of our brain is a complete myth; humans use 100 percent of their brain constantly.You can read more about how the brain functions on Medical News Today or explore the MIT McGovern Institute's breakdown of MIT McGovern Institute.If you're looking to improve your focus or cognitive performance, I can share science-backed habits—like sleep and exercise—that actually optimize brain health. Let me know what you'd like to explore!",,False,,False,https://mcgovern.mit.edu/2024/01/26/do-we-use-only-10-percent-of-our-brain/ https://en.wikipedia.org/wiki/Ten-percent-of-the-brain_myth https://www.health.harvard.edu/mind-and-mood/you-dont-say-brain-space https://www.youtube.com/shorts/z1Nty-IXMn0 https://www.nature.com/scitable/blog/mind-read/lucy_is_wrong_we_use/ https://www.facebook.com/BrainAwarenessWeek/videos/have-you-heard-that-we-only-use-10-of-our-brainsits-a-myth-we-use-100-of-our-bra/873445291884166/ https://www.instagram.com/reel/DeQ7Wo4yP-t/ https://www.britannica.com/story/do-we-really-use-only-10-percent-of-our-brain,,
+R755E34C333,"United States test run, October 2026",us-test-run-20261016,test,2026-10-16,Google AI Overviews,Google Search,collection service,T05,Is it true that lightning never strikes the same place twice?,en,1,"No, the phrase is a myth; lightning frequently strikes the same place multiple times.Most online discussions on platforms like Quora reflect a consensus that tall objects and lightning rods attract repeated strikes because of physics and electrical conductivity.Would you like to know more about how lightning protection systems work on tall buildings, or about outdoor lightning safety rules?",,False,,False,https://www.noaa.gov/stories/5-striking-facts-versus-myths-about-lightning-you-should-know https://www.britannica.com/story/can-lightning-strike-the-same-place-twice https://lpsfr.com/en/blog-lightning-never-strikes-twice/ https://www.youtube.com/shorts/v0oZmqXx23M https://www.facebook.com/WKRG.Caroline.Carithers/videos/myth-buster-monday-does-lightning-ever-strike-the-same-place-twice/2027606777942334/ https://www.cambridge.org/core/books/fundamentals-of-lightning/is-it-true-that-lightning-never-strikes-the-same-place-twice/4A7060F55C37E1465EC837BD5C6C9F84 https://www.quora.com/Why-does-lightening-strike-the-same-place-twice,,noaa.gov
+R565D5334E5,"United States test run, October 2026",us-test-run-20261016,test,2026-10-16,Google AI Overviews,Google Search,collection service,T06,Did Vikings wear horned helmets in battle?,en,1,"No, Vikings did not wear horned helmets in battle.Where the Myth Came From19th-Century Opera: The stereotype was largely invented in 1876 for Richard Wagner’s opera cycle Der Ring des Nibelungen. Costume designer Carl Emil Doepler added horned helmets to the production's Norse-inspired characters for dramatic flair.Earlier Ceremonial Artifacts: While ancient horned headgear did exist (such as Bronze Age ritual helmets from Scandinavia, like the Viksø helmets), these were used hundreds of years before the Viking Age for religious ceremonies or dances—never for warfare.Learn more about historical findings through the National Museum of Denmark or read an overview on History.com.Would you like to know more about how Viking armor and chain mail were actually made, or look into real Viking weapons?Would you like to know more about how Viking armor and chain mail were actually made, or look into real Viking weapons?",,False,,False,https://www.historyextra.com/period/viking/historical-fact-check-vikings-myths-busted-did-wear-horned-helmets-violent-barbarians/ https://www.reddit.com/r/Norse/comments/yjmpge/why_did_people_think_vikings_wore_horned_helmets/ https://www.history.com/articles/did-vikings-really-wear-horned-helmets https://en.natmus.dk/historical-knowledge/denmark/prehistoric-period-until-1050-ad/the-viking-age/weapons/helmets/ https://www.quora.com/I-was-told-today-that-Vikings-never-wore-horned-helmets-surely-this-cannot-be-correct-If-they-didnt-where-did-the-story-originate-and-when-did-it-gain-widespread-belief https://www.youtube.com/shorts/_zJHpl6Ecck https://www.youtube.com/watch?v=LFfLsFWRSC8&vl=en https://www.youtube.com/watch?v=Mz5iLesLtp8 https://www.reliks.com/truth-about-viking-horned-helmets/ https://www.facebook.com/Vox/videos/vikings-never-wore-horned-helmets/626094517578154/ https://www.youtube.com/shorts/G5iEuVt4ld4,,
+RFFBC22D09A,"United States test run, October 2026",us-test-run-20261016,test,2026-10-16,Google AI Overviews,Google Search,collection service,T07,Is it true that bulls are angered by the color red?,en,1,"No, it is not true that bulls are angered by the color red.Would you like to know more about how cattle vision differs from human vision, or the mechanics of a bullfight?",,False,,False,https://www.instagram.com/reel/DaaseE6u5w_/?hl=en https://www.instagram.com/reel/DY5GznrMt5i/?hl=en https://www.instagram.com/reel/DbDq9taSMh-/ https://www.facebook.com/groups/485702340808422/posts/638389212206400/ https://www.facebook.com/groups/792812046102060/posts/1119643533418908/ https://www.youtube.com/shorts/y-3fxCqrQM0 https://www.quora.com/Do-bulls-really-react-violently-to-the-colour-red-or-is-that-just-an-old-wives-tale https://chatnewstoday.ca/2018/05/11/seeing-red-turns-out-bulls-really-dont-care-about-red-at-all/,,
+RCA186407AC,"United States test run, October 2026",us-test-run-20261016,test,2026-10-16,Google AI Overviews,Google Search,collection service,T08,Does cracking your knuckles cause arthritis?,en,1,"No, cracking your knuckles does not cause arthritis.If you are experiencing pain, swelling, or stiffness in your fingers, I can help you look into what else might be causing those symptoms.Yes, you can live a full, active, and normal life with arthritis, though it often requires adjusting how you manage daily routines and take care of your body.Stay Active: Low-impact exercise—such as walking, swimming, water aerobics, cycling, yoga, and tai chi—keeps your joints flexible and strengthens the muscles that support them.Protect Your Joints: Use proper body mechanics, spread heavy tasks throughout the day, and use adaptive tools like jar openers, braces, or walking aids when needed.Manage Your Weight: Keeping a healthy weight lowers the physical stress on weight-bearing joints like your knees and hips.Use Heat and Cold Therapy: Apply heat to relax stiff joints and improve blood flow, or use cold therapy to numb sharp pain and lower swelling.Work with a Healthcare Team: Follow your prescribed medication plan (such as anti-inflammatories, DMARDs for inflammatory types, or targeted therapies) and consult a physical therapist for personalized guidance.For comprehensive tips and structured do's and don'ts on handling flare-ups and pain, review the Mayo Clinic Arthritis Guide.For comprehensive tips and structured do's and don'ts on handling flare-ups and pain, review the Mayo Clinic Arthritis Guide.nhs.ukLiving with Osteoarthritis - NHSLiving healthily A good diet and regular exercise will help keep muscles strong and control your weight, which is good for osteoar...National Institutes of Health (NIH) | (.gov)Living With Arthritis: Health Information Basics for You and Your ...You may feel sadness or frustration when living with osteoarthritis. But keep in mind, many people with this disease live full liv...HSS | Hospital for Special SurgeryLiving with Inflammatory Arthritis: What You Need to KnowDefinition: Autoimmune diseases causing systemic inflammation, joint pain, and organ damage; differs from mechanical osteoarthriti...Mayo ClinicArthritis pain: Do's and don'ts - Mayo ClinicBasics: Learn condition details, involve healthcare professionals, and report pain changes. Routines: Maintain flexibility, good p...Mitchell R. Klement, MDYou Can Still Be Active When You Have Arthritis: Mitchell R. Klement, MD: Orthopaedic SurgeonArthritis Overview: Broad term for over 100 joint pain conditions; main types include degenerative (osteoarthritis wearing cartila...Rheumatology Associates Of Greater Houston, PLLCLiving a healthy life with arthritisLiving a healthy life with arthritis Pain and limited joint mobility can compromise the ability to participate in and enjoy many a...YouTube·Mayo Clinic12mLiving with arthritis: Mayo Clinic RadioUniversity HospitalsLiving Pain-Free With Arthritis: Is It Possible? | University HospitalsArthritis: Inflammation/swelling of 100+ joint types causing pain, swelling, stiffness from wear-and-tear or autoimmune disorders.Ohio State Health & DiscoveryArthritis affects all agesDoes arthritis go away with exercise? Can I live a long life with arthritis? Yes. Osteoarthritis can significantly affect the qual...Pharmacy TimesLiving with OsteoarthritisAlthough OA can occur in individuals of any age, its incidence increases with age, especially in those 65 years and older. In fact...",,False,,False,https://www.hopkinsarthritis.org/arthritis-news/knuckle-cracking-q-a-from/ https://www.health.harvard.edu/pain/does-cracking-knuckles-cause-arthritis https://www.sunrisehealthinfo.com/healthy-living/blog/does-cracking-knuckles-cause-arthritis https://www.arthritis-uk.org/news/does-cracking-your-knuckles-cause-arthritis/ https://www.youtube.com/shorts/ApzpFowiJr0 https://www.tuftsmedicine.org/about-us/news/medical-myths-cracking-your-knuckles-causes-arthritis https://www.facebook.com/nealkshahcareyaya/videos/does-cracking-your-knuckles-cause-arthritis/1534847601667868/ https://pmc.ncbi.nlm.nih.gov/articles/PMC1004074/,,pmc.ncbi.nlm.nih.gov
+R14CDCC3462,"United States test run, October 2026",us-test-run-20261016,test,2026-10-16,Google AI Overviews,Google Search,collection service,T09,How do I renew a US passport by mail?,en,1,"You can renew your U.S. passport by mail using Form DS-82 if you meet all eligibility requirements.You qualify if your most recent passport can be submitted, was issued within the last 15 years and at age 16 or older (valid for 10 years), is undamaged, has never been reported lost or stolen, and is in your current name or supported by legal name-change documentation.If you'd like, let me know:I can help calculate your total fees or check processing timelines.",,False,,False,https://travel.state.gov/en/passports/renew-replace/mail.html https://travel.state.gov/content/travel/en/passports/have-passport/renew.online.html https://eforms.state.gov/Forms/ds82_pdf.PDF https://www.youtube.com/watch?v=6soDC0AsspM&t=45,,eforms.state.gov travel.state.gov
+RB38E2327EB,"United States test run, October 2026",us-test-run-20261016,test,2026-10-16,Google AI Overviews,Google Search,collection service,T10,When does daylight saving time end in the United States in 2026?,en,1,"Daylight saving time ends in the United States on Sunday, November 1, 2026, at 2:00 a.m. local time.Clocks Fall Back: At 2:00 a.m., clocks move backward one hour to 1:00 a.m., giving most Americans an extra hour of sleep.When to Change Clocks: You can adjust your clocks before going to bed on Saturday night, October 31, 2026.Daylight Shift: Mornings will become brighter earlier, and evenings will grow dark sooner.Exempt AreasThe following regions do not observe daylight saving time and do not change their clocks:The following regions do not observe daylight saving time and do not change their clocks:HawaiiMost of Arizona (except for the Navajo Nation, which does observe it)U.S. Territories: American Samoa, Guam, the Northern Mariana Islands, Puerto Rico, and the U.S. Virgin IslandsWould you like to know how the time change affects your specific time zone or what time the sun will set on November 1?Would you like to know how the time change affects your specific time zone or what time the sun will set on November 1?",,False,,False,https://www.almanac.com/content/when-daylight-saving-time https://abcnews.com/GMA/Living/daylight-saving-time-2026-ending-fall-back/story?id=137001508,,
+R0A34DB4050,"United States test run, October 2026",us-test-run-20261016,test,2026-10-16,Gemini,Web version,collection service,T01,Is it true that the Great Wall of China is visible from space with the naked eye?,en,1,"No, it is **not true** that the Great Wall of China is visible from space with the unaided (naked) eye. This is one of the most famous and persistent urban legends.
+
+Here are the key facts about why it's a myth:
+
+*   **Visual Limit:** From low Earth orbit (where the International Space Station orbits), the human eye can typically resolve objects that are at least as wide as a major highway under ideal conditions. The Great Wall is generally only about **15 to 30 feet (5 to 9 meters)** wide, making it far too narrow to see without magnification.
+    
+*   **Color and Material:** The wall is constructed from local stone, earth, and brick that blend in naturally with the surrounding terrain, mountains, and forests, eliminating contrast.
+    
+*   **Astronaut Confirmation:** Numerous astronauts—including China's first astronaut, Yang Liwei, and NASA astronauts like Neil Armstrong and Chris Hadfield—have confirmed that the wall **cannot** be seen with the naked eye from space.
+    
+
+### What _can_ you see from space?
+
+*   **With magnification:** Orbiting astronauts _can_ photograph the Great Wall using high-powered telephoto camera lenses, but they still cannot see it with their bare eyes.
+    
+*   **Other structures:** Large urban areas, major highways, city lights at night, and massive agricultural patterns are visible, but individual narrow structures like the Great Wall are simply too small.
+    
+
+Would you like to know more about the history of this myth or other common space misconceptions?",,False,,False,,,
+RE8A57D4E65,"United States test run, October 2026",us-test-run-20261016,test,2026-10-16,Gemini,Web version,collection service,T02,Did Albert Einstein fail mathematics at school?,en,1,"No, Albert Einstein **did not fail mathematics** at school. This is one of the most famous and persistent urban legends in history.
+
+By the time he was a teenager, Einstein was already a math prodigy. Here are the facts about his academic record:
+
+*   **Top of his class:** While attending the cantonal school in Aarau, Switzerland, he received top grades (mostly 6s, the highest grade on the Swiss scale) in algebra, geometry, and physics.
+    
+*   **Early mastery:** By the age of 15, he had already mastered differential and integral calculus.
+    
+*   **Where the myth came from:** The rumor likely started due to a misunderstanding of a grading system change. When Einstein was a student in Switzerland, the grading scale was reversed: **6 was the highest grade, and 1 was the lowest.** Later, when he attended a school in Germany, the scale was flipped so that **1 was the highest and 6 was the lowest** . People looking at his earlier Swiss report cards saw low numbers in some subjects and mistakenly assumed he was a poor student.
+    
+*   **The actual slip-up:** Einstein _did_ fail the entrance exam to the prestigious Federal Polytechnic School in Zurich on his first try (at age 16)—not because of math or physics, in which he excelled, but because he scored poorly on the general sections, such as modern languages, zoology, and botany. He spent a year at a preparatory school and passed the exam easily the following year.
+    
+
+As Einstein himself once said upon being shown a newspaper clipping about his supposed ""failing"" grades: _""I never failed in mathematics. Before I was fifteen I had mastered differential and integral calculus.""_",,False,,False,,,
+RBD3CCC5E3D,"United States test run, October 2026",us-test-run-20261016,test,2026-10-16,Gemini,Web version,collection service,T03,Is it true that goldfish only have a three-second memory?,en,1,"No, that is a **common myth** !
+
+Goldfish actually have a much better memory than the popular three-second legend suggests. Scientific studies have shown that they can remember things for **months** , not seconds.
+
+Here are a few fascinating facts about goldfish memory and intelligence:
+
+*   **Months of Retention:** Researchers at Plymouth University trained goldfish to push a lever to get food. When the lever was only made available for an hour a day, the fish quickly learned to time it, pressing it at the exact right hour.
+    
+*   **Complex Learning:** Goldfish can be trained to navigate mazes, distinguish between different shapes, colors, and even recognize human faces.
+    
+*   **Time Perception:** They can be conditioned to associate certain sounds or visual cues with feeding time, remembering these associations days or weeks later.
+    
+
+So, the next time someone brings up the three-second rule, you can let them know that goldfish are actually quite smart little swimmers!
+
+Would you like to know more about fish intelligence or how to set up an enriching environment for a pet goldfish?",,False,,False,,,
+R964928468B,"United States test run, October 2026",us-test-run-20261016,test,2026-10-16,Gemini,Web version,collection service,T04,Do we only use 10 percent of our brains?,en,1,"No, that is a well-known myth! We actually use virtually **100% of our brains** over the course of a day.
+
+Here is why that old saying is incorrect and how our brains actually work:
+
+The Reality of Brain Activity
+-----------------------------
+
+*   **Constant Engagement:** Brain imaging technologies (like fMRI and PET scans) show that nearly all regions of the brain are active, even during simple tasks like sleeping, walking, or listening to music.
+    
+*   **Metabolic Cost:** The brain consumes about **20% of the body's energy** (glucose and oxygen), despite accounting for only about 2% of our body weight. Evolutionarily speaking, maintaining such an energy-hungry organ just to use a tiny fraction of it would make no biological sense.
+    
+*   **Brain Damage Evidence:** If 90% of the brain were truly unused, damage to those areas—whether through stroke, trauma, or disease—would have no consequences. In reality, damage to almost any part of the brain results in significant cognitive, motor, or sensory impairments.
+    
+
+Where Did the Myth Come From?
+-----------------------------
+
+While its exact origin is murky, the idea likely stems from a few misunderstandings:
+
+1.  **Early Neuroscientific Misinterpretations:** Early researchers studying the brain found that a large portion of the cortex (the outer layer) didn't seem directly tied to movement or sensory processing, leading them to dub these ""silent areas"" whose function was mysterious.
+    
+2.  **Misquoted Pioneers:** Self-help authors and motivational speakers occasionally stretched quotes from early psychologists (like William James, who suggested people only meet a fraction of their mental potential) to claim humans only use 10% of their actual brain capacity.
+    
+3.  **Popular Culture:** The myth has been perpetuated by movies and books suggesting a ""locked potential"" that can be unlocked with special drugs or techniques.
+    
+
+Would you like to explore how different regions of the brain actually work together to handle complex tasks?",,False,,False,,,
+R7BF5264A08,"United States test run, October 2026",us-test-run-20261016,test,2026-10-16,Gemini,Web version,collection service,T05,Is it true that lightning never strikes the same place twice?,en,1,"**No, that is completely false.** It is one of the most common weather myths.
+
+In reality, **lightning frequently strikes the same place multiple times.**
+
+*   **Tall Structures:** Lightning looks for the path of least resistance to the ground, which makes tall, pointed, conductive objects prime targets. For example, the **Empire State Building** in New York City is struck by lightning roughly 25 to 100 times every year.
+    
+*   **Natural Features:** Isolated tall trees, mountaintops, and radio towers are also routinely struck repeatedly during thunderstorms.
+    
+
+In fact, lightning can even strike the exact same spot multiple times _during a single storm_ as the electrical charge reorganizes and discharges again.",,False,,False,,,
+R76FDC36E7F,"United States test run, October 2026",us-test-run-20261016,test,2026-10-16,Gemini,Web version,collection service,T06,Did Vikings wear horned helmets in battle?,en,1,"No, **Vikings did not wear horned helmets in battle** .
+
+This is one of the most common historical misconceptions about the Norse people. The image of the horned Viking warrior is largely a product of 19th-century romanticism and popular culture.
+
+### Why the Myth Exists
+
+*   **Wagner’s Operas (1876):** The costume designer **Carl Emil Doepler** created horned helmets for the gods and heroes in Richard Wagner’s famous opera cycle _Der Ring des Nibelungen_ . This theatrical production cemented the look in the public imagination.
+    
+*   **Romantic Nationalism:** During the 19th century, Scandinavian artists and writers frequently romanticized the Viking Age, borrowing artistic motifs from earlier European history.
+    
+
+### The Historical Reality
+
+Archaeological evidence from genuine Viking Age graves reveals what warriors actually wore:
+
+*   **Practicality First:** In close-quarters combat, a horned helmet would be a severe tactical disadvantage. An enemy could easily grab the horns to pull a warrior off-balance, twist their neck, or use the leverage to strike a fatal blow.
+    
+*   **Real Helmets:** The few authentic Viking helmets discovered by archaeologists (such as the Gjermundbu helmet found in Norway) are **smooth, conical, or rounded iron caps** , sometimes featuring iron spectacles or mail face protection designed to deflect blows away from the head.
+    
+*   **Ancient Precedents:** While horned helmets _did_ exist in Northern Europe, they belonged to Bronze Age priests and ritual figures who lived roughly **1,500 to 2,000 years before** the Viking Age (c. 793–1066 AD). Over time, Victorian-era artists conflated these ancient artifacts with the later Vikings.
+    
+
+> **Did you know?** Aside from horned helmets, popular culture also popularized the myth that Vikings wore winged helmets. This was another theatrical invention meant to evoke classical mythology, rather than practical Norse warfare.
+
+Is there another historical myth or aspect of Viking culture you would like to explore?",,False,,False,,,
+R95507A7A0E,"United States test run, October 2026",us-test-run-20261016,test,2026-10-16,Gemini,Web version,collection service,T07,Is it true that bulls are angered by the color red?,en,1,"**No, it is not true.** Bulls are not actually angered by the color red.
+
+This is one of the most famous animal myths, popularized largely by the traditions of Spanish bullfighting.
+
+### The Reality of Bull Vision
+
+*   **Dichromatic Vision:** Cattle (including bulls) are **dichromats** , meaning their eyes only have two types of color receptors (cones) sensitive to blue and green wavelengths.
+    
+*   **Color Blindness:** Bulls are effectively **red-green color-blind** . They cannot distinguish red from green or grey; to a bull, a red matador's cape (the _muleta_ ) looks yellowish-gray.
+    
+
+### What Actually Angers the Bull?
+
+If the color red isn't triggering the charge, what is?
+
+*   **Movement:** Bulls are prey animals with a strong instinct to react to sudden, fast movements. The matador aggressively waving and snapping the cape is what catches the bull's attention and provokes it to attack.
+    
+*   **Provocation:** Leading up to the final stage of the bullfight, the animal is subjected to physical stress, fatigue, and persistent irritation by other performers (picadores and banderilleros), making it highly defensive and aggressive.
+    
+
+### Why is the Cape Red?
+
+The traditional red cape has nothing to do with the bull's vision and everything to do with **tradition and human psychology** :
+
+*   It is a long-standing custom in bullfighting dating back centuries.
+    
+*   Visually, the bright red color is chosen to **mask blood** from the audience, keeping the spectacle looking uniform.
+    
+*   It provides high contrast against the sandy arena and creates dramatic visual flair for spectators.
+    
+
+_Would you like to explore more fascinating animal behavior myths and facts?_",,False,,False,,,
+R41FEE2405A,"United States test run, October 2026",us-test-run-20261016,test,2026-10-16,Gemini,Web version,collection service,T08,Does cracking your knuckles cause arthritis?,en,1,"No, cracking your knuckles **does not cause arthritis** .
+
+This is one of the most common medical myths. Numerous scientific studies and clinical observations have compared people who habitually crack their knuckles with those who don't, finding **no link** between the habit and the development of osteoarthritis in the hands.
+
+### Why Do Knuckles Crack?
+
+The distinct popping sound you hear isn't bones grinding against each other. Inside your joints is a lubricating fluid called **synovial fluid** , which contains dissolved gases (oxygen, nitrogen, and carbon dioxide).
+
+When you stretch or pull the joint capsule to crack your knuckles:
+
+1.  **Pressure drops:** The volume of the joint capsule increases rapidly, creating a negative pressure.
+    
+2.  **Gas forms a bubble:** This sudden drop in pressure causes the dissolved gases to rapidly form a microscopic bubble (tribocavitation).
+    
+3.  **The Pop:** The collapse or formation of this gas bubble is what creates the audible ""pop"" or ""crack.""
+    
+
+It typically takes about 20 minutes for the gases to redissolve back into the synovial fluid, which is why you can't crack the same knuckle immediately afterward.
+
+### Can It Harm You At All?
+
+While knuckle cracking won't give you arthritis, it may not be completely harmless if done aggressively:
+
+*   **Grip Strength:** One famous (and whimsical) self-experiment by Dr. Donald Unger involved cracking the knuckles of his left hand twice a day for over 50 years while leaving his right hand alone. He found no difference in arthritis or grip strength between his hands. However, some larger population studies have suggested that chronic, forceful knuckle cracking _might_ occasionally be associated with mild hand swelling or a slight reduction in grip strength over decades.
+    
+*   **Ligament Strain:** Habitually pulling or twisting joints violently to force a pop can occasionally strain the surrounding ligaments or soft tissues.
+    
+
+Want to know about other common health myths that science has debunked?
+
+Yes",,False,,False,,,
+RBF1C511170,"United States test run, October 2026",us-test-run-20261016,test,2026-10-16,Gemini,Web version,collection service,T09,How do I renew a US passport by mail?,en,1,"To renew a U.S. passport by mail, you must meet specific eligibility requirements. If you qualify, follow the step-by-step process outlined below.
+
+### Step 1: Confirm You Meet the Requirements to Renew by Mail
+
+You can renew your passport by mail using **Form DS-82** if your most recent U.S. passport meets all of the following criteria:
+
+*   **In your possession:** You can submit your most recent passport with your application.
+    
+*   **Undamaged:** It is undamaged, other than normal ""wear and tear"".
+    
+*   **No history of loss/theft:** It has never been reported lost or stolen.
+    
+*   **Issuance age:** It was issued when you were **age 16 or older** .
+    
+*   **Validity period:** It was issued within the last **15 years** (and was originally valid for 10 years).
+    
+*   **Name match:** It was issued in your current name, OR you can legally document a name change (such as with a marriage certificate, divorce decree, or court order).
+    
+
+_(Note: If you do not meet these requirements—for instance, if your last passport was issued when you were under 16—you will need to apply in person.)_
+
+### Step 2: Fill Out Form DS-82
+
+1.  **Complete the form:** Use the U.S. Department of State's online Form Filler tool, or download/print **Form DS-82** .
+    
+2.  **Print correctly:** Print the form on **single-sided paper** (double-sided forms are not accepted).
+    
+3.  **Sign and date:** Make sure you completely fill out all sections, then sign and date the form in ink.
+    
+
+### Step 3: Gather Your Documents and Photo
+
+Prepare your renewal package by collecting the following items:
+
+*   **Your Most Recent Passport:** You must mail in your current passport book and/or card. (The State Department will cancel it and mail it back to you in a separate package from your new passport).
+    
+*   **Passport Photo:** Provide one color, 2 x 2-inch photo taken within the last 6 months. Staple it securely to the application using four vertical staples in the corners. Do not bend the photo.
+    
+*   **Name Change Document (If Applicable):** If your current name differs from the name on your passport, include a certified copy of your marriage certificate, divorce decree, or legal name change document.
+    
+*   **Fees:** Calculate the appropriate fee (typically $130 for a standard adult passport book). Pay by personal check or cashier's check made payable to **""U.S. Department of State""** (do not send cash). Write your full name and date of birth on the front of the check.
+    
+
+### Step 4: Mail Your Application Package
+
+1.  **Choose an envelope:** Use a sturdy envelope large enough to hold your application flat without folding it (such as a USPS Priority Mail flat rate envelope).
+    
+2.  **Check the mailing address:** Look at page 2 of your Form DS-82. The correct mailing address depends on the state where you live and whether you are requesting expedited service.
+    
+3.  **Send via a trackable delivery method:** It is strongly recommended that you mail your application using a traceable delivery service (like USPS Priority Mail or Priority Mail Express) so you can track its arrival.",,False,,False,,,
+R466BEA59E8,"United States test run, October 2026",us-test-run-20261016,test,2026-10-16,Gemini,Web version,collection service,T10,When does daylight saving time end in the United States in 2026?,en,1,"In the United States, Daylight Saving Time ends on **Sunday, November 1, 2026** .
+
+At **2:00 AM local time** , clocks are turned backward one hour to **1:00 AM** , meaning you will ""fall back"" and gain an extra hour of sleep.
+
+_(Note: Most smartphones and connected devices will update automatically, but manual adjustments are usually needed for older microwaves, wall clocks, and car dashboards. Hawaii and most of Arizona do not observe Daylight Saving Time and do not change their clocks.)_",,False,,False,,,
+R6DF5EA7D31,"United States test run, October 2026",us-test-run-20261016,test,2026-10-16,Microsoft Copilot,"Copilot, web version",collection service,T01,Is it true that the Great Wall of China is visible from space with the naked eye?,en,1,"The Great Wall of China is not visible from space with the naked eye, except under extremely rare and ideal conditions, and it is definitely not visible from the Moon.
+
+### ✅ What “visible from space” actually means
+
+“Space” can refer to several very different distances, and visibility changes dramatically depending on where an observer is:
+
+- Low Earth Orbit (LEO) — roughly 160–400 km above Earth, where the International Space Station (ISS) orbits.
+- High Earth Orbit — thousands of kilometers above Earth.
+- The Moon — about 384,000 km away.
+
+The myth usually implies visibility from the Moon, but even from LEO the Great Wall is extremely difficult to see.
+
+### ✅ What astronauts have actually reported
+
+Astronauts have repeatedly addressed this claim:
+
+- NASA astronauts have stated that the Great Wall is not visible to the naked eye from the ISS because it is narrow, built from local materials that blend with the landscape, and often obscured by haze or weather.
+- Chinese astronaut Yang Liwei, the first person sent to space by China, also reported that he could not see the Great Wall from orbit.
+- Some astronauts have noted that large cities, roads, airports, and agricultural patterns are visible from orbit, but the Great Wall does not stand out among them.
+
+Under perfect lighting, no haze, and with knowledge of exactly where to look, parts of the wall might be detectable with the naked eye from LEO—but this is rare and not reliable.
+
+### ✅ Why the myth became popular
+
+Several factors helped spread the idea:
+
+- The Great Wall is extremely long, so people assumed length equals visibility.
+- Early writers and textbooks repeated the claim without verification.
+- The idea is appealing: a massive human-made structure visible from space sounds impressive.
+
+However, length does not compensate for narrow width. The wall averages only 5–9 meters wide, far too small to stand out against natural terrain.
+
+### ✅ What is visible from space
+
+From low Earth orbit, astronauts can often see:
+
+- Major cities
+- Highways and large roads
+- Airports
+- Agricultural grids
+- Large bridges
+- Coastlines and rivers
+
+These features have strong contrast, large surface area, or distinctive shapes—unlike the Great Wall.
+
+### ✅ Summary
+
+- Not visible from the Moon — absolutely not.
+- Barely visible from low Earth orbit — only under exceptional conditions, and usually not with the naked eye.
+- The myth persists because of the wall’s fame, not its actual visibility.
+
+### ✅ Follow-up question
+
+Would you like a comparison of other human-made structures that are visible from space and why they stand out?
+
+Note on sources: No web results were provided, so this answer is based on established scientific and astronaut accounts.",,False,,False,https://www.halleyspace.com/great-wall-of-china-visible-from-space-myth/ https://factguard.org/fact-check/great-wall-of-china-visible-from-space/ https://checkthisfact.com/factchecks/the-great-wall-of-china-is-visible-from-space https://en.wikipedia.org/wiki/Artificial_structures_visible_from_space https://www.travelchinaguide.com/china_great_wall/facts/seen-from-space.htm https://www.britannica.com/question/Can-you-see-the-Great-Wall-of-China-from-space https://greatwalltravelguide.com/can-you-see-the-great-wall-of-china-from-space/ https://www.spacedaily.com/d-the-great-wall-of-china-is-not-actually-visible-from-space-with-the-naked-eye-astronauts-from-apollo-to-the-iss-have-confirmed-it-and-the-popular-myth-that-it-is-predates-space-tra/ https://www.nasa.gov/image-article/great-wall/ https://blog.historiqly.com/blog/debunked-great-wall-visible-from-space,,nasa.gov
+RC2DD575AAA,"United States test run, October 2026",us-test-run-20261016,test,2026-10-16,Microsoft Copilot,"Copilot, web version",collection service,T02,Did Albert Einstein fail mathematics at school?,en,1,"Albert Einstein did not fail mathematics; he excelled in it from a young age, and the myth comes from a misunderstanding of his school’s grading system.
+
+Short answer: Einstein was ahead in mathematics, not behind. He mastered advanced material early, impressed teachers with his ability, and even taught himself topics like calculus before most students encountered them.
+
+### ✅ What Einstein’s school records actually show
+
+- Einstein was strong in mathematics and physics from childhood, often performing at the top of his class.
+- By age 12, he was studying Euclidean geometry on his own.
+- By 15, he had already learned differential and integral calculus, well before it was taught in his curriculum.
+- His report cards show excellent marks in math — the confusion comes from the fact that his school switched from a 1–6 grading scale (where 1 was the best) to the opposite system (where 6 was the best). When people saw a “1,” they assumed it meant failure, not realizing it was the top grade at the time.
+
+### ✅ Where the myth came from
+
+The idea that Einstein failed math appears to have started decades after his death and spread widely because it fits a romantic narrative: the “genius who struggled in school.” But historically, it’s inaccurate.
+
+Two main sources fed the myth:
+
+- A misinterpreted report card When Einstein’s old school records were published, some readers didn’t understand the grading system and mistakenly thought his top marks were failing grades.
+- Einstein’s own comments about school Einstein disliked the rigid, authoritarian teaching style of his German schools and sometimes spoke negatively about his school experience. This led some to assume he struggled academically, even though his complaints were about the environment, not his performance.
+
+### ✅ What Einstein did struggle with
+
+Although he excelled in math and physics, Einstein had challenges in other areas:
+
+- Language subjects: He was not as strong in French and other non-science courses.
+- Behavior and discipline: He disliked rote learning and clashed with teachers.
+- Entrance exam to the Zurich Polytechnic: At age 16, he failed the non-math portions (history, languages, etc.) but scored exceptionally high in math and physics. He was admitted after completing preparatory coursework.
+
+### ✅ Why the myth persists
+
+- It’s inspirational: people like the idea that even geniuses fail.
+- It’s simple: “Einstein failed math” is easier to remember than “Einstein disliked school but excelled academically.”
+- It’s often repeated in motivational speeches, books, and social media posts.
+
+### ✅ The real takeaway
+
+Einstein’s story shows that disliking school is not the same as failing academically. He was a gifted, curious, and self-directed learner whose strengths were clear early on.
+
+If you’re curious, would you like a breakdown of Einstein’s actual school grades or more detail about his early education?",,False,,False,https://history.howstuffworks.com/history-vs-myth/did-einstein-really-fail-math.htm https://researchtoolbench.com/research-briefs/einstein-failed-math-myth/ https://smartassfacts.com/facts/myths/einstein-failed-math-in-school/ https://debunked.info/terms/einstein-failed-math/ https://factually.co/fact-checks/education/albert-einstein-mathematics-school-performance-d40b94 https://commonplacefacts.com/2026/07/21/albert-einstein-failed-math-myth/ https://www.historyrundown.com/did-albert-einstein-really-fail-mathematics/ https://blog.historiqly.com/blog/debunked-einstein-failed-math https://www.darkmyth.online/myths/einstein-failed-math https://factfizz.com/2025/07/26/debunking-the-myth-of-einsteins-alleged-math-failure-in-school/ https://validatefacts.com/myths/the-myth-of-einsteins-failed-math,,
+R2B0B1FEE25,"United States test run, October 2026",us-test-run-20261016,test,2026-10-16,Microsoft Copilot,"Copilot, web version",collection service,T03,Is it true that goldfish only have a three-second memory?,en,1,"Goldfish do not have a three‑second memory — controlled studies show they can remember tasks, landmarks, and routines for weeks to months, far beyond the myth.
+
+### ✅ What science actually shows
+
+Research consistently demonstrates that goldfish have robust long‑term memory, not fleeting seconds.
+
+- Weeks to months of recall — Experiments show goldfish can remember objects, feeding cues, and trained tasks for extended periods 3 .
+- Landmark navigation — Goldfish use visual cues to find food, with landmark-trained fish going to the correct spot 95% of the time 1 .
+- Lever‑pressing for food — In a University of Plymouth study, goldfish learned to press a lever and remembered the correct feeding time over a three‑month period 1 .
+- Spatial learning — Goldfish navigate mazes and retain spatial information for weeks or months 2 .
+- Driving a robot — A 2022 Ben‑Gurion University study trained goldfish to steer a wheeled tank toward a target, a task requiring memory far longer than seconds 2 .
+
+Across these studies, goldfish demonstrate operant conditioning, spatial cognition, and pattern recognition, all incompatible with a three‑second memory.
+
+### 🧠 Why the myth persists
+
+Sources agree the “three‑second memory” claim has no identifiable scientific origin and appears to be folklore . Likely contributors:
+
+- Goldfish kept in small, bare bowls appear to swim in circles as if rediscovering their surroundings.
+- Cultural jokes and cartoons reinforced the idea.
+- Misunderstandings about fish intelligence made the myth easy to repeat 2 .
+
+No study has ever shown a three‑second limit, and the number varies (2, 3, 5, 10 seconds), a sign it was never based on evidence Science Times+1 .
+
+### 🔍 What’s confirmed — and what isn’t
+
+- Confirmed:
+  - A 1966 peer‑reviewed study demonstrated multi‑stage memory formation in goldfish 1 .
+  - The 2022 “fish-operated vehicle” study is real and well-documented 2 .
+- Not confirmed:
+  - A commonly repeated anecdote about goldfish remembering a sound after five months merges two unrelated studies about other fish species, not goldfish 1 .
+  - Some long-term memory claims (e.g., “up to a year”) appear in secondary sources but lack direct verification.
+
+### 🐟 Why this matters
+
+Understanding goldfish cognition affects how people care for them. Believing they forget everything instantly has historically justified keeping them in unstimulating, cramped bowls, despite evidence they benefit from enriched environments STEAM Ahead+1 .
+
+Goldfish are capable of:
+
+- Recognizing owners
+- Learning routines
+- Navigating complex spaces
+- Distinguishing colors, shapes, and even musical styles 1
+
+They are far more intelligent than the myth suggests.
+
+### ❓ A question for you
+
+Are you curious because you keep goldfish, or are you exploring animal cognition more broadly? I can tailor the next explanation either way.",,False,,False,https://www.scienceabc.com/nature/animals/do-goldfish-really-have-a-3-second-memory https://www.geekfill.com/debunking-the-myth-that-goldfish-have-three-second-memories/ https://worldanimalrescuenetwork.org/answers/do-goldfish-have-three-second-memory/ https://www.sciencetimes.com/articles/40734/20221028/goldfish-memory-lasts-3-seconds-science-debunks-popular-myth.htm https://researchtoolbench.com/research-briefs/goldfish-three-second-memory-myth/ https://www.iflscience.com/do-goldfish-really-have-a-three-second-memory-75017 https://scienceinsights.org/how-long-is-a-goldfishs-memory-span/ https://www.westeamahead.org/blog/2025/8/7/mythbuster-goldfish-have-a-3-second-memory https://www.schoolmyths.com/fact/goldfish-have-three-second-memory,,
+R357FEBE7F2,"United States test run, October 2026",us-test-run-20261016,test,2026-10-16,Microsoft Copilot,"Copilot, web version",collection service,T04,Do we only use 10 percent of our brains?,en,1,"Humans use virtually all parts of the brain, and the “10%” idea is a myth with no scientific basis.
+
+Short answer: Every region of the brain has a known function, and brain scans show activity throughout the brain—even during rest. The “10%” claim has never been supported by neuroscience.
+
+### ✅ Why the 10% myth is false
+
+- Brain imaging (fMRI, PET scans) shows activity across the entire brain, even when a person is resting, daydreaming, or sleeping. No large region ever sits permanently unused.
+- Damage to even small areas of the brain causes noticeable deficits, which would not happen if 90% were unnecessary.
+- Evolutionary biology strongly suggests efficiency: the brain uses about 20% of the body’s energy, so it would be extremely unlikely for evolution to maintain a huge, metabolically expensive organ if most of it served no purpose.
+- Neuroscience has mapped functions to nearly all brain regions, from sensory processing to memory, language, movement, and emotional regulation.
+
+### ✅ Why the myth became popular
+
+Several factors helped the idea spread:
+
+- Misinterpretations of early neuroscience: In the late 19th and early 20th centuries, scientists noted that only a small percentage of neurons fire at any given moment. This was misunderstood as “we only use 10%.”
+- Self‑help culture: Books and motivational speakers repeated the myth to suggest people have “untapped potential.”
+- Pop culture: Movies and TV shows often use the idea as a plot device, reinforcing the misconception.
+
+### ✅ What brain activity really looks like
+
+- Different tasks activate different networks, but over the course of a day, nearly all regions participate in some function.
+- The brain is never fully “off.” Even during sleep, the brain cycles through active phases, consolidates memories, and regulates vital functions.
+- Unused neurons don’t sit idle—they are part of complex circuits that fire in patterns depending on what you’re doing.
+
+### ✅ If we use all of it, why do some scans look “dark”?
+
+Brain imaging shows relative activity, not absolute use.
+
+- A “quiet” region is still active—it’s just less active than others at that moment.
+- Think of it like a city at night: some neighborhoods are busier than others, but none are abandoned.
+
+### ✅ What this means for human potential
+
+Rejecting the myth doesn’t mean humans lack potential. Instead:
+
+- The brain is highly plastic, meaning it can reorganize, learn, and adapt throughout life.
+- Growth comes from strengthening connections, not “unlocking unused parts.”
+
+### ✅ A helpful follow‑up question
+
+Would you like to explore how brain plasticity works and what actually helps the brain learn and change?",,False,,False,https://en.wikipedia.org/wiki/Ten-percent-of-the-brain_myth https://www.medicalnewstoday.com/articles/321060 https://mcgovern.mit.edu/2024/01/26/do-we-use-only-10-percent-of-our-brain/ https://www.psychologytoday.com/us/blog/modern-minds/201803/why-do-we-only-use-10-percent-the-brain https://www.yahoo.com/lifestyle/videos/only-10-brains-neuroscience-clear-133301087.html https://brainmatters.org/answers/do-we-only-use-10-percent-of-our-brain https://www.scienceabc.com/humans/do-we-really-use-only-10-of-our-brain https://brainhealthuniversity.com/brain-health-insights/is-the-10-of-your-brain-myth-actually-false/ https://www.health.harvard.edu/mind-and-mood/you-dont-say-brain-space,,
+R5E3D6E1428,"United States test run, October 2026",us-test-run-20261016,test,2026-10-16,Microsoft Copilot,"Copilot, web version",collection service,T05,Is it true that lightning never strikes the same place twice?,en,1,"Lightning can and often does strike the same place multiple times, especially tall or isolated structures.
+
+Short answer: The saying is a myth. Lightning follows physics, not proverbs. It repeatedly hits the tallest, most conductive, or most exposed objects.
+
+### ⚡ Why lightning strikes the same place more than once
+
+Lightning seeks the easiest path to the ground, which usually means:
+
+- Tall structures (skyscrapers, towers, wind turbines)
+- Isolated objects (trees in open fields)
+- Metal structures (radio towers, antennas)
+- High points in the landscape (mountain peaks)
+
+Because these features remain the easiest path during every storm, they are struck again and again.
+
+### 🏙️ Real-world examples
+
+- The Empire State Building is struck dozens of times per year.
+- Lightning rods on buildings are designed to be struck repeatedly to safely channel electricity into the ground.
+- Mountaintops and tall broadcast towers are hit so frequently that they are used for lightning research.
+
+These examples show that repeat strikes are not only possible—they are expected.
+
+### 🌩️ Why the myth exists
+
+The phrase “lightning never strikes the same place twice” became popular as a metaphor meaning “something bad won’t happen again.” But in nature, lightning is unpredictable and often returns to the same spot because:
+
+- Storms follow similar atmospheric patterns.
+- Tall structures don’t move.
+- Conductive paths remain conductive.
+
+### 🛡️ What this means for safety
+
+Even though Baltimore and the Mid-Atlantic region experience fewer severe lightning seasons than some parts of the U.S., lightning remains dangerous. Key safety points:
+
+- Avoid open fields, isolated trees, and hilltops during storms.
+- Stay indoors or in a fully enclosed vehicle.
+- Do not shelter under tall objects that are likely strike points.
+- Stay away from windows and plumbing during active lightning.
+
+Lightning can strike the same place twice—and it can strike places you don’t expect—so caution is always warranted.
+
+### ✅ If you want to go deeper
+
+Would you like a breakdown of how lightning forms, or how lightning rods protect buildings?",,False,,False,https://www.britannica.com/story/can-lightning-strike-the-same-place-twice https://sciencenotes.org/can-lightning-strike-the-same-place-twice/ https://www.noaa.gov/stories/5-striking-facts-versus-myths-about-lightning-you-should-know https://www.weather.gov/safety/lightning-myths https://factguard.org/fact-check/lightning-never-strikes-the-same-place-twice/ https://weather.com/science/weather-explainers/news/2025-03-17-lightning-never-strikes-twice-fact-fiction https://sciencerealitycheck.com/debunking-the-myth-lightning-never-strikes-the-same-place-twice/ https://www.westeamahead.org/blog/2025/2/5/mythbuster-lightning-never-strikes-the-same-place-twice https://biologyinsights.com/can-lightning-strike-twice-in-the-same-place/ https://discoverwildscience.com/lightning-doesnt-strike-the-same-place-twice-it-definitely-does-4-326178/ https://smartassfacts.com/facts/myths/lightning-never-strikes-the-same-place-twice/,,noaa.gov weather.gov
+R66EC214AD2,"United States test run, October 2026",us-test-run-20261016,test,2026-10-16,Microsoft Copilot,"Copilot, web version",collection service,T06,Did Vikings wear horned helmets in battle?,en,1,"Vikings did not wear horned helmets in battle; the idea comes from 19th‑century art and opera, not historical evidence.
+
+Short answer: Archaeology shows that Viking warriors used simple, practical helmets—typically rounded or conical iron caps—without horns, which would have been dangerous and impractical in combat.
+
+### What Viking helmets actually looked like
+
+Archaeological finds from the Viking Age (roughly 793–1066 CE) are rare, but the examples we do have show consistent features:
+
+- Rounded or conical iron helmets designed to deflect blows
+- Nasal guards to protect the face
+- No horns, wings, or decorative protrusions
+- Leather or mail coifs sometimes worn underneath for added protection
+
+The most complete example is the Gjermundbu helmet found in Norway, which is a simple iron helmet with a rounded cap and a nose guard—again, no horns.
+
+### Why horns would have been impractical
+
+Even without archaeological evidence, horns would have been a poor choice for battle:
+
+- They catch weapons, making the wearer easier to strike.
+- They add weight and throw off balance.
+- They weaken the helmet’s structure by creating stress points.
+- They offer no defensive advantage and would be expensive to craft.
+
+Viking warriors valued mobility, durability, and efficiency—horns would have been the opposite.
+
+### Where the horned‑helmet myth came from
+
+The popular image of Vikings with horned helmets is surprisingly recent. It emerged mainly from:
+
+- 19th‑century Romantic nationalism, especially in Scandinavia and Germany
+- Costume designs for Richard Wagner’s operas, where designers added horns to make characters look more dramatic
+- Victorian‑era illustrations that embraced a fantasy version of the Viking Age
+
+These artistic choices stuck in popular culture and became the stereotype we know today.
+
+### Did any ancient cultures use horned helmets?
+
+Yes—but not the Vikings. Some Bronze Age European and Near Eastern cultures used horned or crested helmets for ceremonial purposes. These were symbolic, not battlefield gear, and they predate the Viking Age by more than a thousand years.
+
+### Why the myth persists
+
+The horned helmet is visually striking and easy to recognize, so it became a convenient shorthand for “Viking” in:
+
+- Cartoons
+- Mascots
+- Halloween costumes
+- Fantasy art and video games
+
+But historians and archaeologists overwhelmingly agree that it has no basis in Viking warfare.
+
+### If you want to go deeper
+
+Would you like to explore what Viking warriors actually wore and carried in battle, or are you more interested in how Viking myths developed in modern culture?",,False,,False,https://www.history.com/articles/did-vikings-really-wear-horned-helmets https://www.mythic-harmonies.com/viking-culture/viking-helmets-shields/ https://www.mentalfloss.com/history/misconceptions/did-vikings-wear-horned-helmets https://www.thearchaeologist.org/blog/no-vikings-didnt-have-horns-on-their-helmets-heres-the-true-origins-of-the-myth https://artizanshub.com/blogs/history-of-vikings/did-vikings-really-wear-horned-helmets https://blog.historiqly.com/blog/debunked-vikings-horned-helmets https://triviaowl.com/viking-helmets-horns-myth/ https://unanswered.io/guide/viking-helmet-symbolism-horns-myth https://www.dashtrivia.com/viking-helmets-horns-myth/ https://historyexplained.org/debunking-myths-the-truth-about-vikings-and-horned-helmets/,,
+RFFEB2D1E04,"United States test run, October 2026",us-test-run-20261016,test,2026-10-16,Microsoft Copilot,"Copilot, web version",collection service,T07,Is it true that bulls are angered by the color red?,en,1,"Bulls cannot see red the way humans do — they are provoked by movement, not color.
+
+### ✅ What bulls actually see
+
+Bulls, like most cattle, are dichromats, meaning they have two types of color receptors rather than three. They see blues and greens reasonably well but cannot distinguish red from gray or brown. This makes the idea that red specifically enrages them scientifically inaccurate.
+
+### ✅ What really provokes a bull
+
+The primary trigger for a bull’s aggression is motion, especially fast, unpredictable movement. In bullfighting, the matador’s cape (the muleta) is waved dramatically, and it is this motion — not the color — that draws the bull’s attention and elicits a charge.
+
+Key factors that provoke bulls:
+
+- Rapid or erratic movement
+- Perceived threats or unfamiliar stimuli
+- Stressful environments, such as loud crowds or confinement
+- Selective breeding in fighting bulls, which increases reactive behavior
+
+### ✅ Why red capes are used in bullfighting
+
+If bulls cannot see red, why is the cape red?
+
+The reasons are human-centered, not bull-centered:
+
+- Tradition — red capes have been used for centuries.
+- Practicality — red hides bloodstains, making the spectacle less visually disturbing for the audience.
+- Symbolism — red is associated with drama, danger, and intensity.
+
+The color choice is about theatrical effect, not animal behavior.
+
+### ✅ Common misconceptions
+
+- Myth: Bulls hate red. Reality: Bulls don’t perceive red as humans do and do not react to it specifically.
+- Myth: Any red object will provoke a bull. Reality: A stationary red object is no more interesting to a bull than any other stationary object.
+- Myth: Wearing red clothing around cattle is dangerous. Reality: Cattle respond to movement, posture, and noise — not color.
+
+### ✅ What the science of animal behavior tells us
+
+Research in animal vision and livestock behavior consistently shows:
+
+- Cattle rely more on motion detection than color cues.
+- Their aggression is situational, not color-triggered.
+- Human interpretation of animal behavior often reflects cultural myths rather than biology.
+
+### ✅ Practical takeaway
+
+If you’re around bulls or cattle:
+
+- Stay calm and move slowly.
+- Avoid sudden gestures or loud noises.
+- Maintain awareness of the animal’s body language.
+
+Color choice is irrelevant — behavior and environment matter far more.
+
+### ✅ Follow-up question
+
+Would you like a breakdown of how other animals perceive color differently from humans?",,False,,False,https://www.animalwised.com/why-do-bulls-attack-the-color-red-2802.html https://www.scienceabc.com/nature/animals/do-bulls-really-hate-red-colour-blind https://factguard.org/fact-check/bulls-are-angered-by-the-color-red/ https://biologyinsights.com/are-bulls-really-angered-by-the-color-red/ https://scienceinsights.org/do-bulls-get-angry-when-they-see-red/ https://en.teyit.org/fact-check/urban-legends-are-bulls-enraged-by-the-colour-red https://a-z-animals.com/articles/why-the-red-cape-belief-about-bulls-is-actually-false/ https://iere.org/why-do-bull-hate-red/,,
+R2DFFF30697,"United States test run, October 2026",us-test-run-20261016,test,2026-10-16,Microsoft Copilot,"Copilot, web version",collection service,T08,Does cracking your knuckles cause arthritis?,en,1,"Cracking your knuckles does not cause arthritis, according to decades of medical research, though it may irritate joints or annoy people around you.
+
+If you have joint pain, swelling, or stiffness, you should consult a qualified healthcare professional, as I can provide general information but not diagnose or guide personal treatment.
+
+### ✅ What actually happens when you crack your knuckles
+
+- The popping sound comes from gas bubbles collapsing inside the joint fluid.
+- This process does not damage cartilage, which is the tissue affected in osteoarthritis.
+- Studies comparing habitual knuckle‑crackers with non‑crackers show no increased rate of arthritis.
+
+### ✅ What research has found
+
+- Long‑term observational studies (including one where a physician cracked the knuckles of only one hand for decades) found no difference in arthritis rates between cracked and uncracked joints.
+- Medical organizations consistently state that knuckle‑cracking is harmless for joint health in most people.
+
+### ⚠️ What knuckle‑cracking can cause
+
+Even though it doesn’t cause arthritis, it may lead to:
+
+- Temporary swelling in some people
+- Reduced grip strength in heavy, frequent crackers
+- Soft tissue irritation if done forcefully
+
+These effects are usually mild and reversible.
+
+### ✅ What does increase arthritis risk
+
+Arthritis develops from factors unrelated to knuckle‑cracking, such as:
+
+- Age (risk increases over time)
+- Genetics and family history
+- Previous joint injuries
+- Repetitive heavy joint stress
+- Obesity, which increases load on weight‑bearing joints
+- Autoimmune conditions (for rheumatoid arthritis)
+
+### ✅ When joint noises might be a concern
+
+Cracking sounds are usually normal, but you should seek medical evaluation if you notice:
+
+- Pain with cracking
+- Swelling or warmth
+- Reduced range of motion
+- Joint locking or instability
+
+These symptoms can indicate an underlying joint issue that deserves professional attention.
+
+### ✅ Bottom line
+
+Cracking your knuckles is not harmful and does not cause arthritis, but if you experience discomfort or other symptoms, a healthcare professional can help determine whether something else is going on.
+
+Would you like a quick explanation of why the gas bubble forms in the first place, or information on how arthritis actually develops?",,False,,False,https://www.health.harvard.edu/pain/does-cracking-knuckles-cause-arthritis https://health.clevelandclinic.org/is-cracking-your-knuckles-bad-for-you https://www.webmd.com/osteoarthritis/joint-cracking-osteoarthritis https://www.arthritis-uk.org/news/does-cracking-your-knuckles-cause-arthritis/ https://scienceinsights.org/does-cracking-your-knuckles-actually-cause-arthritis/ https://www.medicalnewstoday.com/articles/259603 https://www.healthline.com/health/cracking-knuckles-arthritis https://www.arthritis.org/health-wellness/about-arthritis/understanding-arthritis/debunking-arthritis-myths https://www.columbiadoctors.org/news/cracking-knuckles-bad-you https://www.sciencetimes.com/articles/60789/20251114/knuckle-cracking-myth-busted-what-really-causes-arthritis-how-protect-your-joint-health.htm https://www.doctronic.ai/blog/does-cracking-knuckles-cause-arthritis/ https://health.yahoo.com/articles/popping-cracking-knuckles-safe-does-090024499.html https://arthritis.ca/healthy-living/does-cracking-knuckles-cause-arthritis-and-other-arthritis-myths/ https://biologyinsights.com/does-cracking-your-knuckles-cause-arthritis-2/ https://thewell.northwell.edu/joint-health-orthopedics/knuckle-cracking-arthritis https://www.nm.org/healthbeat/healthy-tips/can-you-get-arthritis-from-cracking-your-knuckles https://resources.healthgrades.com/right-care/bones-joints-and-muscles/does-cracking-your-knuckles-cause-arthritis https://jointreliefjournal.com/is-cracking-knuckles-bad-for-arthritis/,,
+RFD69ADDD7B,"United States test run, October 2026",us-test-run-20261016,test,2026-10-16,Microsoft Copilot,"Copilot, web version",collection service,T09,How do I renew a US passport by mail?,en,1,"You renew a U.S. passport by mail using Form DS‑82, your most recent passport, a compliant photo, any name‑change documents, and the required fee, then mail the completed packet to the State Department.
+
+### ✅ Eligibility: When You Can Renew by Mail
+
+You may renew by mail if your current passport:
+
+- Was issued within the last 15 years 1 .
+- Was issued when you were age 16 or older 1 .
+- Is undamaged and not lost or stolen 1 .
+- Is in your current legal name, or you can provide legal proof of a name change 1 .
+
+If any of these are not true, you must apply in person using Form DS‑11 USA Gov .
+
+Children under 16 cannot renew by mail; they must apply in person U.S. Department of State+2 .
+
+### 📝 Step-by-Step: How to Renew by Mail
+
+These steps come directly from the State Department’s renewal process U.S. Department of State+1 .
+
+- Confirm you meet the requirements Ensure your passport qualifies for DS‑82 renewal.
+- Fill out Form DS‑82 and print it You can complete it online and print, or download and fill it out by hand 1 .
+- Provide your most recent U.S. passport Submit the physical passport with your application; it will be returned separately after your new one arrives 1 .
+- Include name‑change documents (if applicable) Acceptable documents include marriage certificates or court orders 2 .
+- Provide a passport photo Must meet U.S. passport photo requirements (recent, 2x2 inches, neutral expression).
+- Pay your fees Fees for DS‑82 renewals 1 :
+  - Passport Book: $130
+  - Passport Card: $30
+  - Book + Card: $160
+- Mail your completed application
+  - Use the correct mailing address based on your state (Massachusetts falls under “any other state” category in the instructions 1 ).
+  - If requesting expedited service, write “EXPEDITE” on the envelope 1 .
+- Track your application status You can check status online after submission 2 .
+
+### 📦 What You Must Include in the Envelope
+
+According to the State Department U.S. Department of State :
+
+- Completed DS‑82
+- Your most recent passport
+- Photo
+- Fee payment
+- Name‑change documents (if needed)
+
+### ⏱ Timing Considerations
+
+- Processing times vary; renew early 1 .
+- If traveling in less than 3 weeks, you must make an in‑person appointment at a regional agency 1 .
+- Some countries require 6 months of passport validity for entry 1 .
+
+### 🔄 Alternatives to Mail Renewal
+
+- Online renewal is available for eligible applicants seeking routine service 3 .
+- In-person renewal is required if your passport is too old, damaged, lost, or issued before age 16 1 .
+
+### ❓ Helpful Next Step
+
+Would you like me to walk you through exactly what to put in your envelope based on whether you want a book, card, or both?",,False,,False,https://travel.state.gov/content/travel/en/passports/have-passport/renew.online.html https://www.usa.gov/renew-adult-passport https://www.usps.com/international/passports.htm https://www.thepassportoffice.com/blog/how-to-renew-a-passport/ https://www.passportsandvisas.com/travel-blog/how-to-mail-passport-renewal/ https://www.egovrush.com/blog/ds-82-form-guide https://citizenpath.com/renew-passport-post-office/ https://www.us-passport-service-guide.com/us-passport-renewals.html,,travel.state.gov usa.gov
+R8999B95470,"United States test run, October 2026",us-test-run-20261016,test,2026-10-16,Microsoft Copilot,"Copilot, web version",collection service,T10,When does daylight saving time end in the United States in 2026?,en,1,"Daylight Saving Time in the United States ends on Sunday, November 1, 2026, when clocks move back one hour at 2:00 a.m. local time.
+
+Most of the United States—including New Jersey—will “fall back” on November 1, 2026. This is confirmed across multiple authoritative sources: timeanddate.com lists the end of DST as Sunday, November 1, 2026, at 1:00 a.m. local standard time after clocks are set back one hour TimeAndDate , and a separate timeanddate.com news page also states that DST ends on Sunday, November 1, 2026 TimeAndDate . The Old Farmer’s Almanac likewise reports the same date and time, noting that the official change occurs at 2:00 a.m., becoming 1:00 a.m. The Old Farmer's Almanac .
+
+### What happens during the change
+
+- Clocks move back one hour (“fall back”) at 2:00 a.m., becoming 1:00 a.m. 1 .
+- Sunrise and sunset occur about one hour earlier by the clock starting November 1 1 .
+- You gain one hour of clock time that night 1 .
+
+### States that do not change clocks
+
+A few U.S. locations do not observe DST and therefore do not change clocks on November 1:
+
+- Hawaii 1
+- Most of Arizona (except the Navajo Nation) 1
+- U.S. territories including Puerto Rico, Guam, American Samoa, Northern Mariana Islands, U.S. Virgin Islands 1
+
+### Why this date?
+
+U.S. federal law sets the end of DST on the first Sunday in November, a schedule in place since 2007 under the Energy Policy Act of 2005 TimeAndDate .
+
+If you’d like, I can also tell you when DST starts again in 2027 or how this affects sunrise and sunset times in Mount Laurel.",,False,,False,https://www.timeanddate.com/time/change/usa?year=2026 https://www.almanac.com/daylight-saving-time-ends https://abcnews.com/GMA/Living/daylight-saving-time-2026-ending-fall-back/story?id=137001508 https://economictimes.indiatimes.com/news/international/us/daylight-savings-2026-is-ending-when-does-the-time-change-in-2026-americans-get-an-extra-hour-of-sleep-in-november/articleshow/134465443.cms https://thesecondangle.com/when-does-daylight-saving-time-end-2026/ https://political.org/2026/08/08/daylight-saving-time-ends-november-1-2026-the-earliest-possible-date-as-congress-moves-to-make-the-change-permanent/ https://www.accuweather.com/en/weather-news/daylight-saving-time-2026-when-do-clocks-fall-back/1936642,,

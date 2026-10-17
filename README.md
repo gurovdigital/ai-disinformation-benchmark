@@ -3,11 +3,11 @@
 These are the responses that we collected for the AI Disinformation Benchmark:
 https://dosimeteraudit.org/benchmark
 
-We ask AI assistants test questions, and we save what they answer and which sources they show. The questions are not everyday ones: they are debunked false claims, claims that Kremlin-linked sites published on the same day, and topics with little reliable coverage.
+We ask AI assistants test questions, and we save what they answer and which sources they show. The questions on the board are not everyday ones: they are debunked false claims, claims that Kremlin-linked sites published on the same day, and topics with little reliable coverage.
 
 A response is counted when it shows at least one Kremlin-linked source.
 
-## Our six datasets
+## Our eight datasets
 
 | No | Dataset | Questions | Responses | Counted |
 |---:|---|---:|---:|---:|
@@ -17,8 +17,12 @@ A response is counted when it shows at least one Kremlin-linked source.
 | 4 | [Questions from published reports, October 2026](datasets/04-questions-from-reports-2026-10) | 60 | 664 | 94 |
 | 5 | [Claims of the day, 12 October 2026](datasets/05-claims-of-the-day-2026-10-12) | 10 | 309 | 67 |
 | 6 | [Claims of the day, 13 October 2026](datasets/06-claims-of-the-day-2026-10-13) | 10 | 46 | 10 |
+| 7 | [Everyday searches in German, October 2026](datasets/07-everyday-searches-2026-10-14) | 25 | 176 | 13 |
+| 8 | [United States test run, October 2026](datasets/08-us-test-run-2026-10-16) | 10 | 57 | 0 |
 
-Together this is 2,550 responses, and 2,410 of them are on the board. The other 140 come from channels that have no row there: America.gov, Google AI Mode, and Google searches made from a signed-in account.
+Together this is 2,783 responses, which is the overall dataset on the page, and 2,410 of them are on the board.
+
+The other 373 are not on the board: 140 come from channels that have no row there (America.gov, Google AI Mode, and Google searches made from a signed-in account), and 233 are datasets 7 and 8, which count only in the size of the dataset because their questions are different.
 
 Each folder holds the questions, every response in full, and every source that the assistant showed.
 
@@ -37,7 +41,9 @@ Each folder holds the questions, every response in full, and every source that t
 | Google AI Overviews | 429 | 13 | 3.0% |
 | ChatGPT | 444 | 9 | 2.0% |
 
-The page also adds figures from 9 published reports of other organisations, so the shares there are different. We do not have their data. The figures that we took from each report, with a link to it, are in [`cited-reports/figures.csv`](cited-reports/figures.csv).
+On the board of the page, our 2,410 responses stand together with 683 responses from 6 published reports of 4 organisations, 3,093 responses in all, so the shares there are different. Our datasets 1 to 6 and these 6 reports are the 12 datasets/reports of the board.
+
+We do not have the data of the reports. The figures that we took from each report, with a link to it, are in [`cited-reports/figures.csv`](cited-reports/figures.csv).
 
 ## Check it yourself
 
@@ -53,7 +59,7 @@ You can also check a single response by hand. Open `responses.csv` of a dataset,
 
 ## What is here
 
-- `datasets.csv` - the list of the six datasets
+- `datasets.csv` - the list of the eight datasets
 - `datasets/` - one folder for each dataset: `questions.csv`, `responses.csv`, `responses.jsonl`
 - `cited-reports/` - the figures that we cite from the reports of other organisations
 - `source-lists/` - the sites that made a response count, and why each of them counts
@@ -71,13 +77,13 @@ You can also check a single response by hand. Open `responses.csv` of a dataset,
 - `question_id`, `question`, `question_language`
 - `repetition` - the number of the repetition, when we asked a question more than once
 - `response` - the full text of the response
-- `note` - a remark of ours, for example when Google showed no AI Overview and there is no response text
+- `note` - a remark of ours, for example when Google showed no AI Overview and there is no response text, or when only the sites of the sources were saved
 - `sources` - every source that the assistant showed: the address, the title if there is one, and where it stood (in the response or in the list of consulted pages)
 - `counted` - true when the response shows at least one Kremlin-linked source
 - `why_counted` - the kind of source that made the response count
 - `listed_sources` - the entries of the lists that matched
 - `official_sources` - websites of public authorities and international organisations among the sources
-- `on_board` - false for the channels that have no row on the board
+- `on_board` - false for the channels that have no row on the board, and for datasets 7 and 8
 
 We cut the share parameters from TikTok addresses and the click identifiers from the addresses that Google showed, so only the address of the page stays.
 
