@@ -20,7 +20,7 @@ A response is counted when it shows at least one Kremlin-linked source.
 | 7 | [Everyday searches in German, October 2026](datasets/07-everyday-searches-2026-10-14) | 25 | 176 | 13 |
 | 8 | [United States test run, October 2026](datasets/08-us-test-run-2026-10-16) | 10 | 57 | 0 |
 
-Together this is 2,783 responses, which is the overall dataset on the page, and 2,410 of them are on the board.
+Together this is 2,783 responses with 20,908 cited sources, which is the overall dataset on the page, and 2,410 of the responses are on the board.
 
 The other 373 are not on the board: 140 come from channels that have no row there (America.gov, Google AI Mode, and Google searches made from a signed-in account), and 233 are datasets 7 and 8, which count only in the size of the dataset because their questions are different.
 
@@ -53,7 +53,7 @@ Python 3.9 or later, nothing to install:
 python3 scripts/verify.py
 ```
 
-The script checks the SHA-256 checksum of every data file against `CHECKSUMS.txt`. Then it counts the responses of each dataset again and prints the table above. It ends with `VERIFY: OK`.
+The script checks the SHA-256 checksum of every data file against `CHECKSUMS.txt`. Then it counts the responses of each dataset and the cited sources again, and prints the table above. It ends with `VERIFY: OK`.
 
 You can also check a single response by hand. Open `responses.csv` of a dataset, take a row where `counted` is `True`, and open the addresses in the column `source_urls`. The column `listed_sources` names the entries of the lists that matched.
 
@@ -78,7 +78,7 @@ You can also check a single response by hand. Open `responses.csv` of a dataset,
 - `repetition` - the number of the repetition, when we asked a question more than once
 - `response` - the full text of the response
 - `note` - a remark of ours, for example when Google showed no AI Overview and there is no response text, or when only the sites of the sources were saved
-- `sources` - every source that the assistant showed: the address, the title if there is one, and where it stood (in the response or in the list of consulted pages)
+- `sources` - every source that the assistant showed: the address, the title if there is one, and where it stood (in the response or in the list of consulted pages). A page that a response cites twice is listed twice. The 20,908 cited sources are the ones in the responses, and the lists of consulted pages add 899 pages more. For 6 cited sources the address was not saved
 - `counted` - true when the response shows at least one Kremlin-linked source
 - `why_counted` - the kind of source that made the response count
 - `listed_sources` - the entries of the lists that matched

@@ -18,6 +18,7 @@ for line in (ROOT / "CHECKSUMS.txt").read_text(encoding="utf-8").splitlines():
 print("checksums checked:", len((ROOT / "CHECKSUMS.txt").read_text(encoding="utf-8").splitlines()))
 
 board = {}
+cited = consulted = 0
 for d in csv.DictReader(open(ROOT / "datasets.csv", encoding="utf-8")):
     folder = ROOT / d["folder"]
     rows = [json.loads(l) for l in open(folder / "responses.jsonl", encoding="utf-8")]
@@ -27,6 +28,8 @@ for d in csv.DictReader(open(ROOT / "datasets.csv", encoding="utf-8")):
     bad += not ok
     print(f"{d['dataset']}: {len(rows)} responses, {counted} counted", "" if ok else "  <- DIFFERS from datasets.csv")
     for r in rows:
+        cited += sum(1 for s in r["sources"] if s["shown"] != "in the list of consulted pages")
+        consulted += sum(1 for s in r["sources"] if s["shown"] == "in the list of consulted pages")
         if r["on_board"]:
             x = board.setdefault(r["assistant"], [0, 0])
             x[0] += 1
@@ -35,6 +38,7 @@ for d in csv.DictReader(open(ROOT / "datasets.csv", encoding="utf-8")):
 print()
 total = sum(int(d["responses"]) for d in csv.DictReader(open(ROOT / "datasets.csv", encoding="utf-8")))
 print(f"All datasets together: {total:,} responses, {sum(n for n, _ in board.values()):,} of them on the board")
+print(f"Cited sources in the responses: {cited:,}, and {consulted:,} consulted pages")
 print()
 print("Our own measurements on the board, by assistant:")
 for name, (n, c) in sorted(board.items(), key=lambda kv: -kv[1][1] / kv[1][0]):
