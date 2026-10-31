@@ -26,7 +26,13 @@ The other 373 are not on the board: 140 come from channels that have no row ther
 
 Each folder holds the questions, every response in full, and every source that the assistant showed.
 
-## Our own measurements by assistant
+## The United States study
+
+The 1,000 responses of our study of the US midterm elections, collected on 27 and 28 October 2026, are in their own repository: https://github.com/gurovdigital/ai-chatbots-us-midterms-2026 (DOI 10.5281/zenodo.23748831). The report is at https://dosimeteraudit.org/research/ai-chatbots-us-midterms-2026
+
+With this study our open data is 3,783 responses with 30,117 cited sources.
+
+## Our own measurements by assistant, without the US study
 
 | Assistant | Responses | Counted | Share |
 |---|---:|---:|---:|
@@ -41,9 +47,9 @@ Each folder holds the questions, every response in full, and every source that t
 | Google AI Overviews | 429 | 13 | 3.0% |
 | ChatGPT | 444 | 9 | 2.0% |
 
-On the board of the page, our 2,410 responses stand together with 683 responses from 6 published reports of 4 organisations, 3,093 responses in all, so the shares there are different. Our datasets 1 to 6 and these 6 reports are the 12 datasets/reports of the board.
+On the board of the page, our 3,310 responses (these 2,410 and 900 from the US study below) stand together with 2,003 responses from 9 published reports of 5 organisations, 5,313 responses in all, so the shares there are different. Our datasets 1 to 6, the US study and these 9 reports are the 16 datasets/reports of the board, with 30,117 cited sources.
 
-We do not have the data of the reports. The figures that we took from each report, with a link to it, are in [`cited-reports/figures.csv`](cited-reports/figures.csv).
+We do not have the data of the reports. The figures per assistant from 6 of the reports, with a link to each, are in [`cited-reports/figures.csv`](cited-reports/figures.csv). The other 3 reports give no breakdown by assistant, so they count only in the combined total on the page.
 
 ## Check it yourself
 
