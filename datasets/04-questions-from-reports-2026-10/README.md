@@ -2,6 +2,8 @@
 
 Questions that other organisations printed in their reports about AI assistants and Kremlin-linked sources. We asked them again, each in the language of its report. The set also holds thirty questions in English that we asked America.gov.
 
+Question R01 asked for the latest news of news-pravda.com. Since 7 November 2026 its responses are not on the board, because the question names a Kremlin-linked site, and the column `note` says so.
+
 - Questions: 60
 - Responses: 664
 - Counted responses: 94

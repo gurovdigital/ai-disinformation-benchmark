@@ -20,9 +20,9 @@ A response is counted when it shows at least one Kremlin-linked source.
 | 7 | [Everyday searches in German, October 2026](datasets/07-everyday-searches-2026-10-14) | 25 | 176 | 13 |
 | 8 | [United States test run, October 2026](datasets/08-us-test-run-2026-10-16) | 10 | 57 | 0 |
 
-Together this is 2,783 responses with 20,908 cited sources, which is the overall dataset on the page, and 2,410 of the responses are on the board.
+Together this is 2,783 responses with 20,908 cited sources, which is the overall dataset on the page, and 2,388 of the responses are on the board.
 
-The other 373 are not on the board: 140 come from channels that have no row there (America.gov, Google AI Mode, and Google searches made from a signed-in account), and 233 are datasets 7 and 8, which count only in the size of the dataset because their questions are different.
+The other 395 are not on the board: 140 come from channels that have no row there (America.gov, Google AI Mode, and Google searches made from a signed-in account), and 233 are datasets 7 and 8, which count only in the size of the dataset because their questions are different. The last 22 are the responses to question R01 of dataset 4, which asked for the latest news of a Kremlin-linked site: since 7 November 2026 they count only in the size of the dataset, because a question that names such a site does not show how an assistant handles a false claim.
 
 Each folder holds the questions, every response in full, and every source that the assistant showed.
 
@@ -36,18 +36,18 @@ With this study our open data is 3,783 responses with 30,117 cited sources.
 
 | Assistant | Responses | Counted | Share |
 |---|---:|---:|---:|
-| DeepSeek | 120 | 35 | 29.2% |
-| Perplexity | 551 | 114 | 20.7% |
-| Meta AI | 119 | 20 | 16.8% |
-| Claude | 33 | 5 | 15.2% |
-| Grok | 29 | 4 | 13.8% |
-| Mistral Vibe | 103 | 9 | 8.7% |
-| Microsoft Copilot | 138 | 8 | 5.8% |
-| Gemini | 444 | 15 | 3.4% |
-| Google AI Overviews | 429 | 13 | 3.0% |
-| ChatGPT | 444 | 9 | 2.0% |
+| DeepSeek | 119 | 35 | 29.4% |
+| Perplexity | 547 | 110 | 20.1% |
+| Meta AI | 118 | 20 | 16.9% |
+| Claude | 32 | 5 | 15.6% |
+| Grok | 28 | 3 | 10.7% |
+| Mistral Vibe | 102 | 9 | 8.8% |
+| Microsoft Copilot | 137 | 7 | 5.1% |
+| Google AI Overviews | 425 | 13 | 3.1% |
+| Gemini | 440 | 11 | 2.5% |
+| ChatGPT | 440 | 5 | 1.1% |
 
-On the board of the page, our 3,310 responses (these 2,410 and 900 from the US study below) stand together with 2,003 responses from 9 published reports of 5 organisations, 5,313 responses in all, so the shares there are different. Our datasets 1 to 6, the US study and these 9 reports are the 16 datasets/reports of the board, with 30,117 cited sources.
+On the board of the page, our 3,288 responses (these 2,388 and 900 from the US study below) stand together with 2,003 responses from 9 published reports of 5 organisations, 5,291 responses in all, so the shares there are different. Our datasets 1 to 6, the US study and these 9 reports are the 16 datasets/reports of the board, with 30,117 cited sources.
 
 We do not have the data of the reports. The figures per assistant from 6 of the reports, with a link to each, are in [`cited-reports/figures.csv`](cited-reports/figures.csv). The other 3 reports give no breakdown by assistant, so they count only in the combined total on the page.
 
@@ -89,7 +89,7 @@ You can also check a single response by hand. Open `responses.csv` of a dataset,
 - `why_counted` - the kind of source that made the response count
 - `listed_sources` - the entries of the lists that matched
 - `official_sources` - websites of public authorities and international organisations among the sources
-- `on_board` - false for the channels that have no row on the board, and for datasets 7 and 8
+- `on_board` - false for the channels that have no row on the board, for datasets 7 and 8, and for question R01 of dataset 4
 
 We cut the share parameters from TikTok addresses and the click identifiers from the addresses that Google showed, so only the address of the page stays.
 
